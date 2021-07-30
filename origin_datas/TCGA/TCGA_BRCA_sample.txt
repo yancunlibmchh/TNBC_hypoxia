@@ -1,0 +1,1098 @@
+A0_Samples	A18_Sex	A1_OS	A2_Event	A3_T	A4_N	A5_M	A6_Stage	A8_New_Event	A8_New_Event_Time	breast_carcinoma_estrogen_receptor_status	breast_carcinoma_progesterone_receptor_status	lab_proc_her2_neu_immunohistochemistry_receptor_status	lab_procedure_her2_neu_in_situ_hybrid_outcome_type	lymph_node_examined_count	margin_status
+TCGA-D8-A1JJ	FEMALE	611	Alive	T2	N0	M0	Stage IIA	0	611	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-BH-A5J0	FEMALE	715	Alive	T1c	N0	M0	Stage IA	0	715	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-A8-A09A	FEMALE	304	Alive	T2	NX	M0	Stage X	1		Positive	Positive	Negative	Negative	Not Available	Positive
+TCGA-BH-A28O	FEMALE	1120	Alive	T3a	N3	M0	Stage IIIC	0	1120	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-A2-A0CL	FEMALE	3015	Alive	T3	N2a	M0	Stage IIIA	0	3015	Positive	Positive	Negative	Negative	14	Positive
+TCGA-EW-A6SD	FEMALE	1010	Alive	T2	N1a	M0	Stage IIB	0	1010	Negative	Negative	Not Evaluated	Not Evaluated	31	Negative
+TCGA-AC-A6IW	FEMALE	413	Alive	T2	N0 (i-)	MX	Stage IIA	0	413	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-BH-A0DI	FEMALE	912	Alive	T2	N1a	M0	Stage IIB	0	912	Positive	Positive	Negative	Not Available	28	Negative
+TCGA-C8-A1HJ	FEMALE	5	Alive	T2	N0	M0	Stage IIA	0	5	Negative	Negative	Negative	Not Evaluated	10	Negative
+TCGA-A2-A0SY	FEMALE	1347	Alive	T3	N1	M0	Stage IIIA	0	1347	Positive	Positive	Not Evaluated	Positive	14	Negative
+TCGA-BH-A42U	FEMALE	3364	Alive	T2	N0	M0	Stage IIA	0	3364	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-E2-A15L	FEMALE	626	Alive	T2	N0	M0	Stage IIA	0	626	Positive	Positive	Equivocal	Negative	3	Negative
+TCGA-GM-A2DM	FEMALE	3226	Alive	T2	N0 (i-)	M0	Stage IIA	0	3226	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-BH-A0H6	FEMALE	747	Alive	T1b	NX	M0	Stage I	0	747	Positive	Positive	Negative	Not Evaluated	0	Negative
+TCGA-AR-A1AX	FEMALE	2629	Alive	T1	N0	M0	Stage I	0	2629	Positive	Positive	Positive	Not Evaluated	8	Negative
+TCGA-E9-A1R6	FEMALE	339	Alive	T2	N0	M0	Stage IIA	0	339	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AO-A12D	FEMALE	2515	Alive	T1c	N1a	M0	Stage IIA	0	2515	Negative	Negative	Positive	Positive	16	Negative
+TCGA-BH-A1FC	FEMALE	3472	Dead	T1c	N1b	M0	Stage IIA	0	3472	Negative	Negative	Negative	Not Available	23	Not Available
+TCGA-A8-A08S	FEMALE	1004	Alive	T1c	N1	M0	Stage IIA	0	1004	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-5L-AAT1	FEMALE	1471	Alive	T2	N0	M1	Stage IV	0	1471	Positive	Positive	Equivocal	Not Evaluated	1	Negative
+TCGA-3C-AAAU	FEMALE	4047	Alive	TX	NX	MX	Stage X	1	1808	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-A2-A25E	FEMALE	3204	Alive	T2	N2a	M0	Stage IIIA	1	2989	Positive	Positive	Equivocal	Equivocal	10	Negative
+TCGA-BH-A0DL	FEMALE	2381	Alive	T2	N0	M0	Stage IIA	0	2381	Positive	Negative	Negative	Not Available	3	Negative
+TCGA-B6-A0RH	FEMALE	6456	Dead	T2	N0 (i-)	M0	Stage IIA	1	2165	Positive	Positive	Not Evaluated	Not Evaluated	23	Positive
+TCGA-A8-A06U	FEMALE	883	Dead	T2	N1a	M0	Stage IIB	0	883	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AO-A03T	FEMALE	2124	Alive	T2	N1a	M0	Stage IIB	0	2124	Positive	Positive	Negative	Not Evaluated	12	Negative
+TCGA-A2-A0CX	FEMALE	1728	Alive	T2	N0 (i-)	M0	Stage IIA	0	1728	Positive	Negative	Positive	Not Evaluated	2	Negative
+TCGA-AC-A3W6	FEMALE	0	Alive	T3	N1	MX	Stage IIIA	0	0	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A1-A0SQ	FEMALE	554	Alive	T2	N1	MX	Stage IIB	0	554	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-D8-A1XY	FEMALE	503	Alive	T2	N0	MX	Stage IIA	0	503	Positive	Positive	Positive	Not Evaluated	3	Not Available
+TCGA-BH-A0RX	FEMALE	170	Alive	T2	N0 (i-)	M0	Stage IIA	0	170	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-AR-A5QQ	FEMALE	322	Dead	T3	N1	M0	Stage IIIA	1	301	Negative	Negative	Negative	Not Available	24	Not Available
+TCGA-A7-A4SC	FEMALE	446	Alive	T3	N0	MX	Stage IIB	0	446	Positive	Negative	Equivocal	Negative	1	Negative
+TCGA-E9-A22B	FEMALE	1167	Alive	T1c	N0	M0	Stage IA	0	1167	Positive	Negative	Negative	Not Evaluated	4	Negative
+TCGA-EW-A1OZ	FEMALE	1229	Alive	T2	N0 (i-)	M0	Stage IIA	0	1229	Positive	Negative	Equivocal	Positive	4	Negative
+TCGA-C8-A1HK	FEMALE	366	Alive	T2	N1	M0	Stage IIB	0	366	Negative	Negative	Positive	Not Evaluated	8	Negative
+TCGA-A7-A5ZX	FEMALE	336	Alive	T2	N3a	M0	Stage IIIC	0	336	Positive	Positive	Negative	Not Evaluated	24	Unknown
+TCGA-B6-A0RM	FEMALE	2373	Dead	TX	NX	MX	Stage X	0	2373	Positive	Positive	Not Evaluated	Not Available	0	Not Available
+TCGA-A1-A0SM	MALE	242	Alive	T2	N0 (i-)	M0	Stage IIA	0	242	Positive	Negative	Positive	Positive	3	Negative
+TCGA-BH-A0C1	FEMALE	1411	Dead	T3	N2a	M0	Stage IIIA	1	1123	Positive	Positive	Negative	Not Available	10	Negative
+TCGA-AQ-A1H2	FEMALE	475	Alive	T2	N2a	MX	Stage IIIA	0	475	Positive	Positive	Indeterminate	Positive	19	Negative
+TCGA-A2-A0ER	FEMALE	2263	Alive	T1c	N1mi	M0	Stage IB	0	2263	Positive	Positive	Equivocal	Negative	14	Positive
+TCGA-BH-A0BF	FEMALE	1324	Dead	T2	N1mi	M0	Stage IIB	0	1324	Positive	Positive	Negative	Not Available	3	Negative
+TCGA-C8-A3M8	FEMALE	394	Alive	T1c	N0	M0	Stage IA	0	394	Positive	Positive	Positive	Not Evaluated	Not Available	Negative
+TCGA-AC-A23C	FEMALE	585	Alive	T2	N1	MX	Stage IIB	0	585	Positive	Positive	Positive	Positive	1	Negative
+TCGA-D8-A1XD	FEMALE	522	Alive	T1c	N2a	M0	Stage IIIA	0	522	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-E9-A1RB	FEMALE	976	Dead	T2	N0	M0	Stage IIA	0	976	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-B6-A408	FEMALE	2072	Alive	T2	N3a	M0	Stage IIIC	0	2072	Positive	Positive	Equivocal	Negative	23	Negative
+TCGA-AN-A0XR	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Positive	Negative	Negative	Not Evaluated	14	Negative
+TCGA-AO-A0JA	FEMALE	655	Alive	T2	N3	M0	Stage IIIC	1	143	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-B6-A40C	FEMALE	2164	Alive	T3	N0 (i-)	M0	Stage IIB	0	2164	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-C8-A275	FEMALE	1	Alive	T1	N1	M0	Stage IIA	0	1	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	Negative
+TCGA-BH-A0HQ	FEMALE	1121	Alive	T2	N0 (i+)	M0	Stage IIA	0	1121	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-EW-A1OV	FEMALE	789	Alive	T2	N1mi	MX	Stage IIB	0	789	Negative	Negative	Negative	Negative	6	Close
+TCGA-E2-A108	FEMALE	837	Alive	T2	N2a	M0	Stage IIIA	1		Positive	Positive	Negative	Not Evaluated	27	Negative
+TCGA-D8-A141	FEMALE	626	Alive	T1c	N1	M0		0	626	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-C8-A12N	FEMALE	358	Alive	T2	N0 (i-)	M0	Stage IIA	0	358	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-A7-A13F	FEMALE	765	Alive	T3	N1a	M0	Stage IIIA	0	765	Positive	Positive	Equivocal	Negative	11	Negative
+TCGA-BH-A0DV	FEMALE	2064	Alive	T2	N2a	M0	Stage IIIA	0	2064	Positive	Positive	Negative	Not Available	9	Negative
+TCGA-A2-A0YM	FEMALE	965	Alive	T2	N0 (i-)	M0	Stage IIA	0	965	Negative	Negative	Not Evaluated	Negative	5	Negative
+TCGA-BH-A0B4	MALE	1191	Alive	T2	N2	M0	Stage IIIA	0	1191	Positive	Positive	Equivocal	Positive	10	Negative
+TCGA-AN-A0XL	FEMALE	163	Alive	T2	N0	M0	Stage IIA	0	163	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-E2-A14O	FEMALE	1359	Alive	T3	N1a	M0	Stage IIIA	0	1359	Positive	Positive	Equivocal	Negative	18	Negative
+TCGA-E2-A10B	FEMALE	1141	Alive	T2	N1a	M0	Stage IIB	1	195	Positive	Positive	Equivocal	Negative	28	Close
+TCGA-AC-A3W7	FEMALE	471	Alive	T2	N1a	MX	Stage IIB	0	471	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-AR-A0U3	FEMALE	4080	Alive	T2	N1	M0	Stage IIB	0	4080	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-B6-A0IH	FEMALE	2965	Dead	T3	N1b	M0	Stage IIIA	0	2965	Positive	Positive	Not Evaluated	Not Evaluated	27	Positive
+TCGA-A2-A0YH	FEMALE	659	Alive	T2	N2a	M0	Stage IIIA	0	659	Positive	Positive	Negative	Not Evaluated	28	Negative
+TCGA-B6-A1KI	FEMALE	2236	Alive	T1c	N0	M0	Stage I	0	2236	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-A2-A3XY	FEMALE	1093	Dead	T2	N1a	M0	Stage IIB	1	802	Negative	Negative	Negative	Negative	16	Negative
+TCGA-A7-A5ZV	FEMALE	368	Alive	T2	N0	M0	Stage IIA	0	368	Negative	Negative	Equivocal	Negative	2	Negative
+TCGA-AR-A1AU	FEMALE	2868	Alive	T2	N2	M0	Stage IIIA	0	2868	Positive	Positive	Equivocal	Negative	37	Negative
+TCGA-Z7-A8R5	FEMALE	3287	Alive	T3	N1a	MX	Stage IIIA	1	181	Positive	Positive	Negative	Not Evaluated	5	Positive
+TCGA-C8-A1HE	FEMALE	375	Alive	T2	N0	M0	Stage IIA	0	375	Positive	Positive	Equivocal	Not Evaluated	5	Negative
+TCGA-GM-A2DI	FEMALE	2590	Alive	T1c	N0 (i+)	M0	Stage I	0	2590	Negative	Negative	Not Evaluated	Negative	9	Negative
+TCGA-A7-A4SE	FEMALE	644	Alive	T2	N0	M0	Stage IIA	0	644	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-D8-A27V	FEMALE	381	Alive	T2	N0	M0	Stage IIA	0	381	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A8-A08B	FEMALE	1156	Alive	T2	N0	M0	Stage IIA	0	1156	Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-E2-A1IU	FEMALE	337	Alive	T1c	N0 (mol+)	M0	Stage IA	0	337	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-AR-A2LN	FEMALE	1161	Alive	T2	N0	M0	Stage IIA	0	1161	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A8-A07L	FEMALE	975	Alive	T3	N1a	M0	Stage IIIA	0	975	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-EW-A1P4	FEMALE	907	Alive	T2	N0 (i-)	M0	Stage IIA	0	907	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-E9-A249	FEMALE	217	Alive	T2	N0 (i-)	M0	Stage IIA	0	217	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AC-A2QI	FEMALE	588	Alive	T3	N1a	MX	Stage IIIA	0	588	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-D8-A1X5	FEMALE	565	Alive	T2	N3a	MX	Stage IIIC	0	565	Positive	Positive	Positive	Not Evaluated	16	Negative
+TCGA-E2-A14V	FEMALE	1042	Alive	T2	N1	M0	Stage IIB	0	1042	Positive	Positive	Positive	Not Evaluated	24	Negative
+TCGA-LL-A6FQ	FEMALE	80	Alive	T2	N2a	MX	Stage IIIA	0	80	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-A8-A06R	FEMALE	547	Alive	T2	N1a	M0	Stage IIB	0	547	Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-EW-A3E8	FEMALE	1035	Alive	T3	N0	MX	Stage IIB	0	1035	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-C8-A26Y	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Negative	Negative	Negative	Not Evaluated	Not Available	Negative
+TCGA-BH-A0B5	FEMALE	2136	Alive	T2	N2a	M0	Stage IIIA	0	2136	Positive	Positive	Negative	Not Available	24	Positive
+TCGA-EW-A1P0	FEMALE	1251	Alive	T2	N1b	MX	Stage IIB	1	1094	Positive	Negative	Negative	Not Evaluated	21	Negative
+TCGA-AR-A1AM	FEMALE	2991	Alive	T3	N1	M0	Stage IIIA	0	2991	Positive	Positive	Equivocal	Negative	12	Negative
+TCGA-E9-A5UO	FEMALE	785	Alive	T2	N0	M0	Stage IIA	0	785	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-B6-A0X4	FEMALE	860	Dead	T2	N1b	M0	Stage IIB	1	716	Positive	Positive	Not Evaluated	Not Evaluated	21	Negative
+TCGA-BH-A8FZ	FEMALE	574	Alive	T1b	N0	M0	Stage IA	0	574	Positive	Positive	Equivocal	Not Evaluated	7	Negative
+TCGA-EW-A1PH	FEMALE	607	Alive	T1c	N1a	M0	Stage IIA	0	607	Negative	Negative	Negative	Not Evaluated	10	Negative
+TCGA-C8-A131	FEMALE	411	Alive	T2	N2	M0	Stage IIIA	0	411	Negative	Negative	Negative	Not Evaluated	8	Negative
+TCGA-AR-A5QM	FEMALE	2231	Alive	T2	N0	M0	Stage IIA	1	968	Positive	Positive	Equivocal	Not Available	9	Not Available
+TCGA-B6-A0RE	FEMALE	7777	Alive	TX	N0 (i-)	M0	Stage X	0	7777	Negative	Negative	Not Evaluated	Not Available	14	Negative
+TCGA-AN-A0XN	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Negative	Positive	Negative	Not Evaluated	15	Negative
+TCGA-E2-A1LI	FEMALE	3121	Alive	T2	N1	M0	Stage IIB	0	3121	Negative	Negative	Equivocal	Negative	2	Close
+TCGA-D8-A1XQ	FEMALE	499	Alive	T2	N0	M0	Stage IIA	0	499	Negative	Negative	Negative	Not Evaluated	7	Negative
+TCGA-BH-A0BM	FEMALE	1876	Alive	T2	N1a	M0	Stage IIB	0	1876	Positive	Negative	Negative	Not Evaluated	24	Negative
+TCGA-A8-A08O	FEMALE	943	Alive	T2	N3a	M1	Stage IV	1	762	Positive	Positive	Negative	Negative	Not Available	Positive
+TCGA-AN-A0FJ	FEMALE	242	Alive	T2	N2	M1	Stage IV	0	242	Positive	Negative	Positive	Not Evaluated	14	Negative
+TCGA-A1-A0SF	FEMALE	1463	Alive	T2	N0	M0	Stage IIA	0	1463	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-D8-A13Z	FEMALE	635	Alive	T2	N2a	M0		0	635	Negative	Negative	Negative	Not Evaluated	11	Negative
+TCGA-BH-A0DG	FEMALE	2041	Alive	T2	N0	M0	Stage IIA	0	2041	Positive	Negative	Negative	Not Available	3	Negative
+TCGA-D8-A1JL	FEMALE	611	Alive	T2	N0	M0	Stage IIA	0	611	Negative	Negative	Negative	Not Evaluated	11	Negative
+TCGA-E2-A14P	FEMALE	1246	Alive	T2	N3	M0	Stage IIIC	0	1246	Negative	Negative	Positive	Not Evaluated	24	Negative
+TCGA-BH-A0EA	FEMALE	991	Dead	T1c	N1a	M0	Stage IIA	0	991	Positive	Positive	Negative	Not Available	4	Negative
+TCGA-E9-A1NG	FEMALE	786	Dead	T2	N0	M0	Stage IIA	0	786	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-E2-A9RU	FEMALE	0	Alive	T2	N3a	MX	Stage IIIC	0	0	Positive	Negative	Equivocal	Negative	22	Negative
+TCGA-A2-A0SV	FEMALE	825	Dead	T2	N2a	M1	Stage IV	0	825	Positive	Positive	Equivocal	Negative	9	Positive
+TCGA-AR-A24X	FEMALE	3004	Alive	T2	N0	M0	Stage IIA	0	3004	Positive	Positive	Equivocal	Negative	7	Negative
+TCGA-E2-A1IO	FEMALE	1855	Alive	T1c	N0	M0	Stage I	0	1855	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-B6-A0I1	FEMALE	2361	Dead	T2	N0	M0	Stage IIA	1	1120	Negative	Negative	Not Evaluated	Not Evaluated	7	Negative
+TCGA-OL-A5D7	FEMALE	1780	Alive	T2	N0	MX	Stage IIA	0	1780	Negative	Negative	Not Evaluated	Negative	1	Negative
+TCGA-A1-A0SN	FEMALE	1196	Alive	T1c	N1	MX	Stage IIA	0	1196	Positive	Positive	Positive	Not Evaluated	13	Negative
+TCGA-A8-A094	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Negative	Negative	Negative	Not Available	Negative
+TCGA-GM-A2DF	FEMALE	2155	Alive	T1c	N1a	M0	Stage IIA	0	2155	Negative	Negative	Negative	Negative	32	Negative
+TCGA-A2-A3XU	FEMALE	912	Dead	T2	N1mi	M0	Stage IIB	1	596	Negative	Negative	Not Evaluated	Negative	12	Negative
+TCGA-BH-A0B8	FEMALE	1569	Alive	T1b	N0 (i-)	M0	Stage I	0	1569	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-AC-A6NO	FEMALE	51	Alive	T2	N1a	MX	Stage IIB	0	51	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-A2-A0ET	FEMALE	1066	Alive	T2	N2a	M0	Stage IIIA	0	1066	Positive	Positive	Equivocal	Negative	15	Negative
+TCGA-AC-A3QP	FEMALE	675	Alive	T2	N1mi	MX	Stage IIB	0	675	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-A2-A04P	FEMALE	548	Dead	T2	N3c	M0	Stage IIIC	1	179	Negative	Negative	Not Evaluated	Negative	20	Positive
+TCGA-A7-A5ZW	FEMALE	326	Alive	T1c	N1a	M0	Stage IIA	0	326	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-EW-A1PB	FEMALE	608	Alive	T3	N1a	MX	Stage IIIA	0	608	Negative	Negative	Negative	Not Evaluated	8	Negative
+TCGA-AO-A1KT	FEMALE	541	Alive	T1	N1	M0	Stage IIA	0	541	Positive	Positive	Equivocal	Negative	5	Negative
+TCGA-EW-A1P3	FEMALE	1611	Alive	T2	N0	MX	Stage IIA	0	1611	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E9-A226	FEMALE	1048	Dead	T2	N2	M0	Stage IIIA	1	790	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-S3-A6ZG	FEMALE	562	Alive	T2	N1	M0	Stage IIB	0	562	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A0H0	FEMALE	461	Alive	T1c	N0 (i-)	M0	Stage IA	0	461	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-GM-A3XG	FEMALE	1330	Alive	T3	N1a	M0	Stage IIIA	0	1330	Positive	Positive	Negative	Negative	26	Negative
+TCGA-C8-A12P	FEMALE	358	Alive	T2	N1	M0	Stage IIB	0	358	Negative	Negative	Positive	Not Evaluated	8	Negative
+TCGA-E2-A1IE	FEMALE	2362	Alive	T2	N1	M0	Stage IIB	1	1810	Positive	Positive	Equivocal	Negative	3	Negative
+TCGA-LL-A7SZ	FEMALE	594	Alive	T2	N1a	MX	Stage IIB	0	594	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-LL-A73Z	FEMALE	227	Dead	T1c	NX	M1	Stage IV	1	192	Positive	Positive	Equivocal	Negative	Not Available	Positive
+TCGA-LD-A66U	FEMALE	646	Alive	T2	N1mi	MX	Stage IIB	0	646	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-AQ-A1H3	FEMALE	989	Alive	T2	N3a	MX	Stage IIIC	0	989	Positive	Positive	Negative	Not Evaluated	23	Negative
+TCGA-AN-A0FT	FEMALE	214	Alive	T2	N1	M0	Stage IIB	0	214	Positive	Positive	Positive	Not Evaluated	7	Negative
+TCGA-E9-A1NC	FEMALE	1203	Alive	T2	N1	M0	Stage IIB	0	1203	Negative	Positive	Positive	Not Evaluated	9	Negative
+TCGA-BH-A0AV	FEMALE	1820	Alive	T1c	N0	M0	Stage I	0	1820	Negative	Negative	Not Available	Negative	2	Negative
+TCGA-B6-A0RT	FEMALE	2721	Alive	T3	N1	M0	Stage IIIA	0	2721	Negative	Negative	Not Evaluated	Not Available	23	Close
+TCGA-EW-A1IW	FEMALE	371	Alive	T2	N1a	MX	Stage IIB	0	371	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-E9-A3Q9	FEMALE	1001	Alive	T3	N3	M0	Stage IIIC	0	1001	Positive	Positive	Indeterminate	Not Evaluated	22	Negative
+TCGA-AC-A8OS	FEMALE	70	Alive	T2	N0 (i-)	MX	Stage IIA	0	70	Positive	Positive	Positive	Not Evaluated	2	Negative
+TCGA-B6-A0I6	FEMALE	991	Dead	T1c	N1	M0	Stage IIA	1	859	Negative	Negative	Not Evaluated	Not Available	32	Negative
+TCGA-S3-AA12	FEMALE	574	Alive	T3	N1a	MX	Stage IIIA	0	574	Positive	Negative	Negative	Negative	16	Negative
+TCGA-B6-A0WX	FEMALE	639	Dead	T3	N1b	M0	Stage IIIA	1	563	Negative	Negative	Not Evaluated	Not Evaluated	21	Negative
+TCGA-E2-A1II	FEMALE	1025	Alive	T1c	N0	M0	Stage I	0	1025	Negative	Positive	Negative	Not Evaluated	5	Negative
+TCGA-S3-AA17	FEMALE	424	Alive	T2	N1mi		Stage IIB	0	424	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-C8-A3M7	FEMALE	1034	Dead	T4b	N0	M0	Stage IIIB	1	1034	Negative	Negative	Negative	Not Evaluated	6	Negative
+TCGA-E9-A1ND	FEMALE	1266	Alive	T2	N1	M0	Stage IIB	0	1266	Negative	Negative	Positive	Not Evaluated	11	Negative
+TCGA-A7-A13E	FEMALE	614	Dead	T2	N1	MX	Stage IIB	1	556	Positive	Negative	Equivocal	Negative	12	Negative
+TCGA-C8-A12U	FEMALE	385	Alive	T2	N1	M0	Stage IIB	0	385	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-A2-A0D0	FEMALE	2048	Alive	T2	N0 (i-)	M0	Stage IIA	0	2048	Negative	Negative	Negative	Negative	8	Negative
+TCGA-A2-A0D2	FEMALE	1027	Alive	T2	N0 (i+)	M0	Stage IIA	0	1027	Negative	Negative	Negative	Negative	5	Negative
+TCGA-B6-A40B	FEMALE	3152	Alive	T1b	N0 (i-)	M0	Stage I	0	3152	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A2-A04X	FEMALE	1686	Alive	T2	N0 (i-)	M0	Stage IIA	0	1686	Positive	Positive	Positive	Positive	3	Negative
+TCGA-GI-A2C8	FEMALE	225	Alive	T4b	N0	MX	Stage IIIB	0	225	Positive	Positive	Negative	Negative	10	Negative
+TCGA-A8-A07G	FEMALE	577	Alive	T1c	N1a	M0	Stage IIA	0	577	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-OL-A5D6	FEMALE	1104	Dead	T2	N0	MX	Stage IIA	0	1104	Negative	Negative	Not Evaluated	Negative	2	Negative
+TCGA-A2-A0EV	FEMALE	968	Alive	T1c	N0 (i-)	M0	Stage IA	0	968	Positive	Positive	Negative	Negative	6	Negative
+TCGA-AN-A0FK	FEMALE	213	Alive	T4	N0	M0	Stage IIIB	0	213	Positive	Positive	Positive	Not Evaluated	7	Negative
+TCGA-BH-A18V	FEMALE	1556	Dead	T2	N1b	M0	Stage IIB	0	1556	Negative	Negative	Negative	Not Available	25	Negative
+TCGA-D8-A1XZ	FEMALE	466	Alive	T1c	N2a	MX	Stage IIIA	0	466	Positive	Negative	Negative	Not Evaluated	14	Negative
+TCGA-AQ-A04L	FEMALE	3957	Alive	T2	N0 (i-)	MX	Stage IIA	0	3957	Positive	Negative	Positive	Not Evaluated	2	Negative
+TCGA-EW-A1IZ	FEMALE	554	Alive	T2	N2a	MX	Stage IIIA	0	554	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-A8-A0A9	FEMALE	822	Alive	T2	N0	M0	Stage IIA	0	822	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A2-A0T2	FEMALE	255	Dead	T3	N3	M1	Stage IV	0	255	Negative	Negative	Negative	Not Evaluated	14	Close
+TCGA-LL-A5YP	FEMALE	450	Alive	T2	N1a	M0	Stage IIB	0	450	Positive	Negative	Negative	Positive	12	Negative
+TCGA-AC-A23H	FEMALE	0	Alive	T2	NX	M0	Stage IIA	1		Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-A8-A07S	FEMALE	243	Alive	T2	N0	M0	Stage IIA	1		Positive	Negative	Negative	Negative	Not Available	Positive
+TCGA-B6-A0IM	FEMALE	3873	Dead	T3	N0 (i-)	M0	Stage IIB	0	3873	Positive	Positive	Not Evaluated	Not Available	9	Positive
+TCGA-AR-A2LE	FEMALE	5062	Alive	T1	N0	M0	Stage I	1	4203	Positive	Negative	Not Evaluated	Not Evaluated	2	Negative
+TCGA-E9-A1NA	FEMALE	1112	Alive	T2	N0	M0	Stage IIA	0	1112	Positive	Positive	Positive	Not Evaluated	11	Negative
+TCGA-GI-A2C9	FEMALE	3342	Alive	T3	N0	MX	Stage IIB	0	3342	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-OL-A66P	FEMALE	428	Alive	T2	N0	MX	Stage IIA	0	428	Negative	Negative	Not Evaluated	Negative	2	Negative
+TCGA-AO-A0J7	FEMALE	618	Alive	T2	N1	M0	Stage IIB	0	618	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-GM-A2DB	FEMALE	2406	Alive	T2	N0 (i-)	M0	Stage IIA	0	2406	Negative	Negative	Negative	Negative	3	Negative
+TCGA-C8-A9FZ	FEMALE	592	Alive	T2	N1	M0	Stage IIB	0	592	Not Evaluated	Not Evaluated	Negative	Not Evaluated	10	Negative
+TCGA-A2-A0EW	FEMALE	1884	Dead	T1b	N3a	M0	Stage IIIC	1	1353	Positive	Positive	Negative	Negative	Not Available	Positive
+TCGA-EW-A6SB	FEMALE	760	Alive	T2	N0	M0	Stage II	0	760	Negative	Negative	Negative	Not Evaluated	8	Negative
+TCGA-E2-A150	FEMALE	1935	Alive	T2	N0	M0	Stage IIA	0	1935	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-AR-A250	FEMALE	2707	Alive	T2	N0	M0	Stage IIA	0	2707	Positive	Negative	Equivocal	Positive	4	Positive
+TCGA-LL-A5YL	FEMALE	519	Alive	T2	N1a	MX	Stage IIB	0	519	Positive	Negative	Positive	Negative	23	Negative
+TCGA-A8-A07E	FEMALE	608	Alive	T4b	N3a	MX	Stage X	0	608	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A8-A092	FEMALE	942	Alive	T2	N2a	M0	Stage IIIA	0	942	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AR-A5QP	FEMALE	1185	Alive	T2	N1	M0	Stage IIB	0	1185	Positive	Positive	Equivocal	Not Available	40	Not Available
+TCGA-E9-A24A	FEMALE	747	Alive	T1c	N1	M0	Stage IIA	0	747	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-E9-A1N9	FEMALE	1101	Alive	T2	N0	M0	Stage IIA	0	1101	Negative	Positive	Positive	Not Evaluated	8	Negative
+TCGA-A8-A09D	FEMALE	1522	Alive	T2	N1	M0	Stage IIB	0	1522	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-LL-A9Q3	FEMALE	532	Alive	T3	N3a	MX	Stage IIIC	0	532	Positive	Positive	Positive	Not Evaluated	28	Negative
+TCGA-AR-A24Z	FEMALE	3001	Alive	T2	N0	M0	Stage IIA	0	3001	Positive	Positive	Negative	Not Evaluated	8	Negative
+TCGA-GM-A3NY	FEMALE	1162	Alive	T2	N1a	M0	Stage IIB	0	1162	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-D8-A1XM	FEMALE	538	Alive	T1c	N0	M0	Stage IA	0	538	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-BH-A0AW	FEMALE	622	Alive	T1c	N1a	M0	Stage IIA	0	622	Positive	Negative	Positive	Not Evaluated	12	Negative
+TCGA-E9-A22A	FEMALE	1189	Alive	T2	N0	M0	Stage IIA	0	1189	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-E2-A15H	FEMALE	393	Alive	T1c	N1mi	M0	Stage IIA	0	393	Positive	Positive	Equivocal	Positive	4	Negative
+TCGA-D8-A1XA	FEMALE	839	Alive	T1c	N0	M0	Stage IA	0	839	Positive	Positive	Equivocal	Not Evaluated	1	Negative
+TCGA-E9-A1R5	FEMALE	92	Alive	T1c	N0	M0	Stage IA	0	92	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-BH-A0H7	FEMALE	702	Alive	T1c	N2a	M0	Stage IIIA	0	702	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-B6-A0X7	FEMALE	1781	Dead	T1c	NX	MX	Stage X	1	1104	Positive	Positive	Not Evaluated	Not Evaluated	0	Not Available
+TCGA-AN-A0AL	FEMALE	227	Alive	T4	N0	M0	Stage IIIB	0	227	Negative	Negative	Negative	Not Evaluated	5	Negative
+TCGA-AR-A2LJ	FEMALE	2632	Alive	T3	N1	MX	Stage IIIA	0	2632	Positive	Positive	Positive	Positive	18	Negative
+TCGA-AN-A0FS	FEMALE	210	Alive	T1c	N0	M0	Stage IA	0	210	Positive	Negative	Positive	Not Evaluated	14	Negative
+TCGA-A2-A0EN	FEMALE	4088	Alive	T2	N0 (i+)	M0	Stage IIA	0	4088	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-EW-A423	FEMALE	533	Alive	T2	N0	MX	Stage IIA	0	533	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-GM-A5PX	FEMALE	551	Alive	T2	N1mi	M0	Stage IIB	0	551	Positive	Positive	Negative	Negative	13	Negative
+TCGA-BH-A0W7	FEMALE	1363	Alive	T1c	N0 (i-)	M0	Stage I	0	1363	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A2-A0CS	FEMALE	2348	Dead	T4b	N3a	M1	Stage IV	0	2348	Positive	Positive	Equivocal	Negative	15	Positive
+TCGA-D8-A1JS	FEMALE	371	Alive	T1c	N0	M0	Stage IA	0	371	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-AO-A1KS	FEMALE	350	Alive	T2	N0 (i-)	M0	Stage IIA	0	350	Positive	Positive	Equivocal	Negative	5	Negative
+TCGA-A8-A07F	FEMALE	577	Alive	T2	N1a	M0	Stage IIB	0	577	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-B6-A0RP	FEMALE	3126	Dead	T2	N1b	M0		1	2787	Positive	Positive	Not Evaluated	Not Available	15	Positive
+TCGA-A7-A26H	FEMALE	724	Alive	T1	N1a	M0	Stage IIA	1	291	Positive	Negative	Equivocal	Positive	5	Negative
+TCGA-A2-A0D4	FEMALE	767	Alive	T2	N1a	M0	Stage IIB	0	767	Positive	Positive	Negative	Negative	23	Negative
+TCGA-BH-A18L	FEMALE	811	Dead	T3	N1mi	M0	Stage IIIA	0	811	Positive	Positive	Negative	Not Available	3	Negative
+TCGA-AO-A03R	FEMALE	2091	Alive	T2	N1a	M0	Stage IIB	0	2091	Positive	Positive	Negative	Negative	26	Negative
+TCGA-AO-A0JE	FEMALE	2335	Alive	T2	N2a	M0	Stage IIIA	0	2335	Negative	Negative	Positive	Positive	29	Positive
+TCGA-AN-A0FX	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Negative	Negative	Positive	Not Evaluated	12	Negative
+TCGA-EW-A1J6	FEMALE	875	Alive	T1c	N0 (i-)	M0	Stage I	0	875	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A0B7	FEMALE	2559	Alive	T2	N1a	M0	Stage IIB	0	2559	Positive	Positive	Positive	Not Available	17	Negative
+TCGA-B6-A400	FEMALE	215	Alive	T2	N2a	M0	Stage IIIA	0	215	Negative	Negative	Negative	Not Evaluated	5	Negative
+TCGA-AR-A1AQ	FEMALE	3021	Alive	T2	N0	M0	Stage IIA	0	3021	Negative	Negative	Equivocal	Negative	6	Negative
+TCGA-D8-A1XL	FEMALE	606	Alive	T2	N1a	MX	Stage IIB	0	606	Positive	Positive	Equivocal	Negative	13	Negative
+TCGA-BH-A1FG	FEMALE	577	Dead	T1c	NX	M0	Stage I	0	577	Positive	Positive	Negative	Not Available	Not Available	Not Available
+TCGA-B6-A0I8	FEMALE	749	Dead	T1	NX	M0	Stage X	1	746	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	0	Not Available
+TCGA-EW-A6SA	MALE	510	Alive	T2	N0 (i+)	MX	Stage II	0	510	Positive	Negative	Negative	Not Evaluated	4	Negative
+TCGA-A2-A1FW	FEMALE	528	Alive	T3	N2a	M0	Stage IIIA	0	528	Positive	Negative	Negative	Not Evaluated	19	Negative
+TCGA-AR-A1AR	FEMALE	524	Dead	T1	N2	M0	Stage IIIA	1	268	Negative	Negative	Negative	Not Evaluated	14	Negative
+TCGA-D8-A3Z6	FEMALE	563	Alive	T3	N3a	M0	Stage IIIC	0	563	Positive	Positive	Negative	Not Evaluated	22	Negative
+TCGA-BH-A1F8	FEMALE	1	Dead	T4b	N2	M0	Stage IIIB	0	1	Positive	Positive	Positive	Not Available	13	Not Available
+TCGA-A2-A0SX	FEMALE	1534	Alive	T1c	N0 (i-)	M0	Stage IA	1	1239	Negative	Negative	Negative	Not Evaluated	1	Positive
+TCGA-AO-A0JM	FEMALE	2184	Alive	T2	N1	M0	Stage IIB	0	2184	Positive	Positive	Positive	Positive	23	Negative
+TCGA-BH-A0BG	FEMALE	1871	Alive	T1	N0	M0	Stage I	0	1871	Negative	Negative	Negative	Not Available	1	Negative
+TCGA-OL-A97C	FEMALE	271	Alive	T3	N0	M0	Stage IIB	1	275	Negative	Negative	Not Evaluated	Negative	6	Not Available
+TCGA-BH-A1FL	FEMALE	1673	Dead	T2	N1b	M0	Stage IIB	0	1673	Positive	Positive	Not Evaluated	Not Evaluated	22	Not Available
+TCGA-A2-A0YF	FEMALE	1535	Alive	T1b	N0 (i+)	M0	Stage I	0	1535	Positive	Negative	Negative	Not Evaluated	1	Negative
+TCGA-LQ-A4E4	FEMALE	849	Alive	T3	N1a	MX	Stage IIIA	1	681	Positive	Positive	Not Evaluated	Negative	26	Positive
+TCGA-E9-A1QZ	FEMALE	755	Alive	T2	N0	M0	Stage IIA	0	755	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	19	Negative
+TCGA-C8-A1HG	FEMALE	345	Alive	T2	N0	M0	Stage IIA	0	345	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-BH-A0DD	MALE	2486	Alive	T2	N1a	M0	Stage IIB	0	2486	Positive	Positive	Positive	Positive	22	Negative
+TCGA-B6-A0WV	FEMALE	2417	Dead	T2	N1b	M0	Stage IIB	0	2417	Positive	Positive	Not Evaluated	Not Evaluated	7	Negative
+TCGA-AN-A0FN	FEMALE	218	Alive	T1c	N0	M0	Stage IA	0	218	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-A2-A0CP	FEMALE	2813	Alive	T1c	N0 (i-)	M0	Stage IA	0	2813	Positive	Positive	Not Evaluated	Negative	2	Negative
+TCGA-D8-A1XO	FEMALE	1682	Alive	T2	N1a	M0	Stage IIB	0	1682	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-A2-A0CZ	FEMALE	1616	Alive	T2	N0 (i-)	M0	Stage IIA	0	1616	Positive	Positive	Negative	Negative	2	Positive
+TCGA-E9-A244	FEMALE	21	Alive	T2	N0 (i-)	M0	Stage IIA	0	21	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-BH-A0H3	FEMALE	1928	Alive	T1c	N0	M0	Stage I	0	1928	Positive	Positive	Not Available	Negative	2	Negative
+TCGA-BH-A18Q	FEMALE	1692	Dead	T2	N1b	M0	Stage IIB	0	1692	Negative	Negative	Positive	Negative	25	Negative
+TCGA-BH-A0DQ	FEMALE	98	Alive	T2	N1	M0	Stage IIB	0	98	Positive	Positive	Negative	Not Evaluated	25	Negative
+TCGA-A7-A6VW	FEMALE	285	Alive	T2	N0	M0	Stage IIA	0	285	Negative	Negative	Negative	Not Evaluated	2	Close
+TCGA-E9-A1NF	FEMALE	1072	Dead	T2	N0	M0	Stage IIA	1	90	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-BH-A0DS	FEMALE	78	Alive	T2	N2a	M0	Stage IIIA	0	78	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-E2-A15S	FEMALE	428	Alive	T2	N1	M0	Stage IIB	0	428	Positive	Negative	Equivocal	Negative	17	Negative
+TCGA-AO-A0J3	FEMALE	651	Alive	T2	N1b	M0	Stage IIB	0	651	Positive	Positive	Equivocal	Negative	36	Negative
+TCGA-BH-A18S	FEMALE	2009	Dead	T1c	N0	M0	Stage I	0	2009	Positive	Positive	Negative	Not Available	2	Negative
+TCGA-D8-A1XG	FEMALE	448	Alive	T4b	N1a	M0	Stage IIIB	0	448	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-AO-A0J5	FEMALE	792	Dead	T4	N1a	M1	Stage IV	1		Positive	Negative	Equivocal	Negative	2	Close
+TCGA-BH-A1EU	FEMALE	1286	Dead	T1	N0	M0	Stage I	0	1286	Positive	Positive	Negative	Not Evaluated	Not Available	Not Available
+TCGA-AR-A0TR	FEMALE	160	Dead	T2	N1	M0	Stage IIB	0	160	Positive	Positive	Equivocal	Negative	27	Negative
+TCGA-AR-A24L	FEMALE	2866	Dead	T2	N1	M0	Stage IIB	1	1414	Positive	Positive	Equivocal	Negative	12	Negative
+TCGA-D8-A1JM	FEMALE	590	Alive	T2	N1a	M0	Stage IIB	0	590	Positive	Negative	Negative	Not Evaluated	11	Negative
+TCGA-A8-A076	FEMALE	1642	Alive	T2	N0	M0	Stage IIA	0	1642	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-A8-A09G	FEMALE	0	Alive	T3	N3a	M0	Stage IIIC	0	0	Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-A7-A2KD	FEMALE	679	Alive	T2	N2a	MX	Stage IIIA	0	679	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-A2-A1FZ	FEMALE	683	Alive	T2	N0 (i-)	M0	Stage IIA	0	683	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-S3-AA15	FEMALE	525	Alive	T2	N1a		Stage IIB	0	525	Negative	Negative	Negative	Not Evaluated	13	Negative
+TCGA-AR-A2LQ	FEMALE	1233	Alive	T3	N0	M0	Stage IIB	0	1233	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-C8-A135	FEMALE	393	Alive	T2	N1	M0	Stage IIB	0	393	Negative	Negative	Positive	Not Evaluated	3	Negative
+TCGA-E9-A54Y	FEMALE	725	Alive	T2	N2	M0	Stage IIIA	0	725	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-LL-A5YO	FEMALE	440	Alive	T1b	N0	MX	Stage IA	0	440	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-BH-A1ES	FEMALE	3462	Dead	T2	N1a	M0	Stage IIB	0	3462	Positive	Positive	Negative	Not Available	4	Not Available
+TCGA-C8-A1HM	FEMALE	375	Alive	T2	N0	M0	Stage IIA	0	375	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-LD-A7W5	FEMALE	216	Alive	T2	N3a	M0	Stage IIIC	1		Positive	Positive	Negative	Not Evaluated	23	Positive
+TCGA-D8-A1JC	FEMALE	480	Alive	T2	N2a	M0	Stage IIIA	0	480	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-5L-AAT0	FEMALE	1477	Alive	T2	N0	M0	Stage IIA	0	1477	Positive	Positive	Negative	Not Evaluated	8	Positive
+TCGA-AR-A2LL	FEMALE	2012	Alive	T3	N0	M0	Stage IIB	0	2012	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-D8-A1JH	FEMALE	426	Alive	T1c	N0	M0	Stage IA	0	426	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-D8-A27W	FEMALE	373	Alive	T4b	N0	M0	Stage IIIB	0	373	Positive	Positive	Equivocal	Positive	12	Negative
+TCGA-AO-A125	FEMALE	3456	Alive	T2	N0 (i-)	M0	Stage IIA	0	3456	Positive	Positive	Negative	Negative	5	Negative
+TCGA-C8-A1HF	FEMALE	332	Alive	T2	N0	M0	Stage IIA	0	332	Negative	Positive	Positive	Not Evaluated	12	Negative
+TCGA-AN-A0XW	FEMALE	170	Alive	T2	N2	M0	Stage IIIA	0	170	Positive	Positive	Positive	Negative	14	Negative
+TCGA-B6-A2IU	FEMALE	5176	Alive	T2	N0	M0	Stage IIA	1	4224	Positive	Positive	Not Evaluated	Not Evaluated	28	Negative
+TCGA-AR-A5QN	FEMALE	1013	Alive	T2	N3	M0	Stage IIIC	0	1013	Positive	Positive	Positive	Not Available	19	Not Available
+TCGA-E2-A15T	FEMALE	1563	Alive	T2	N0	M0	Stage IIA	0	1563	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-AR-A1AO	FEMALE	2618	Alive	T1	N1	M0	Stage IIA	0	2618	Positive	Negative	Negative	Not Evaluated	39	Negative
+TCGA-A2-A0YD	FEMALE	769	Alive	T3	N0 (i+)	M0	Stage IIB	0	769	Positive	Positive	Not Evaluated	Negative	2	Negative
+TCGA-A2-A0D3	FEMALE	1873	Alive	T1c	N0 (i-)	M0	Stage IA	0	1873	Positive	Positive	Negative	Negative	1	Negative
+TCGA-BH-A28Q	FEMALE	1119	Alive	T2	N1a	M0	Stage IIB	0	1119	Positive	Positive	Negative	Indeterminate	18	Not Available
+TCGA-C8-A138	FEMALE	380	Alive	T2	N2	M0	Stage IIIA	0	380	Positive	Negative	Equivocal	Not Evaluated	2	Negative
+TCGA-AO-A03V	FEMALE	1351	Alive	T1c	N0 (i-)	M0	Stage I	0	1351	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-GM-A2DH	FEMALE	2193	Alive	T1c	N0 (i+)	M0	Stage I	0	2193	Negative	Negative	Negative	Negative	2	Negative
+TCGA-GM-A3NW	FEMALE	3361	Alive	T2	N0 (i-)	M0	Stage IIA	0	3361	Negative	Positive	Equivocal	Negative	4	Negative
+TCGA-D8-A27R	FEMALE	307	Alive	T2	N3a	M0	Stage IIIC	0	307	Positive	Positive	Equivocal	Negative	11	Negative
+TCGA-A8-A09N	FEMALE	31	Alive	T2	N3a	M0	Stage IIIC	0	31	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AO-A12H	FEMALE	1234	Alive	T2	N0 (i-)	M0	Stage IIA	0	1234	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-AC-A2QH	FEMALE	1005	Alive	T3	N0	MX	Stage IIB	0	1005	Negative	Negative	Negative	Not Evaluated	22	Negative
+TCGA-D8-A27F	FEMALE	488	Alive	T2	N0	M0	Stage IIA	0	488	Negative	Negative	Negative	Not Evaluated	11	Negative
+TCGA-A7-A4SF	FEMALE	545	Alive	T2	N0	M0	Stage IIA	0	545	Positive	Negative	Positive	Not Evaluated	2	Positive
+TCGA-E2-A14S	FEMALE	1009	Alive	T1c	N0	M0	Stage I	0	1009	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-D8-A27G	FEMALE	409	Alive	T2	N0	M0	Stage IIA	0	409	Positive	Positive	Equivocal	Negative	31	Negative
+TCGA-LL-A441	FEMALE	996	Alive	T1c	N0	MX	Stage IA	0	996	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-E2-A1LG	FEMALE	1523	Alive	T2	N0	M0	Stage IIA	0	1523	Negative	Negative	Equivocal	Negative	19	Negative
+TCGA-BH-A0DT	FEMALE	2403	Alive	T1c	N1a	M0	Stage IIA	0	2403	Positive	Positive	Negative	Not Available	18	Negative
+TCGA-AN-A0FF	FEMALE	172	Alive	T1b	N0	M0	Stage IA	0	172	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-A2-A4S3	FEMALE	666	Alive	T2	N1a	M0	Stage IIB	0	666	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-A2-A1G1	FEMALE	584	Alive	T2	N1	M0	Stage IIB	0	584	Negative	Negative	Equivocal	Positive	13	Negative
+TCGA-E2-A1BD	FEMALE	1133	Alive	T2	N0	M0	Stage IIA	0	1133	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-C8-A12O	FEMALE	385	Alive	T2	N0 (i-)	M0	Stage IIA	0	385	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-A8-A083	FEMALE	0	Alive	T3	N0	M0	Stage IIB	0	0	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-E2-A1IG	FEMALE	2140	Alive	T2	N1mi	M0	Stage IIB	0	2140	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-LL-A73Y	FEMALE	477	Alive	T1c	N0	MX	Stage IA	0	477	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-AC-A5XU	FEMALE	455	Alive	T3	N0 (i-)	MX	Stage IIB	0	455	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-AR-A0U1	FEMALE	4052	Alive	T2	N1	M0	Stage IIB	0	4052	Negative	Negative	Negative	Not Available	31	Negative
+TCGA-A8-A08C	FEMALE	881	Alive	T2	N0	M0	Stage IIA	0	881	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AR-A0TY	FEMALE	1699	Dead	T2	N0	M0	Stage IIA	1	544	Positive	Negative	Negative	Not Evaluated	15	Negative
+TCGA-AR-A1AJ	FEMALE	2383	Alive	T1	N0	M0	Stage I	0	2383	Positive	Negative	Negative	Not Evaluated	8	Negative
+TCGA-OL-A66J	FEMALE	1996	Alive	T1c	N0	MX	Stage I	0	1996	Positive	Positive	Not Evaluated	Negative	4	Negative
+TCGA-D8-A27T	FEMALE	398	Alive	T2	N3a	M0	Stage IIIC	0	398	Positive	Positive	Negative	Not Evaluated	12	Negative
+TCGA-AR-A1AH	FEMALE	3807	Alive	T2	N1	M0	Stage IIB	1	1136	Positive	Negative	Negative	Not Evaluated	9	Negative
+TCGA-C8-A12X	FEMALE	385	Alive	T2	N1	M0	Stage IIB	0	385	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-BH-A18J	FEMALE	612	Dead	T4b	N2	M1	Stage IV	0	612	Positive	Positive	Negative	Not Available	Not Available	Negative
+TCGA-AC-A2BK	FEMALE	2222	Alive	T2	N2a	MX	Stage IIIA	0	2222	Negative	Negative	Negative	Not Evaluated	23	Negative
+TCGA-E9-A1R3	FEMALE	78	Alive	T2	N3	M0	Stage IIIC	0	78	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-GM-A2DA	FEMALE	6593	Dead	T2	N1b	M0	Stage IIB	1	3014	Positive	Positive	Equivocal	Positive	13	Negative
+TCGA-OK-A5Q2	FEMALE	64	Alive	T2	N1a	MX	Stage II	0	64	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-AR-A0U0	FEMALE	1988	Alive	T2	N1	M0	Stage IIB	0	1988	Negative	Negative	Not Evaluated	Not Evaluated	4	Negative
+TCGA-OL-A5RX	FEMALE	878	Alive	T1c	N0	MX	Stage IA	0	878	Positive	Positive	Not Evaluated	Negative	4	Negative
+TCGA-E2-A15M	FEMALE	336	Dead	T2	N0	M0	Stage IIA	0	336	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-AO-A0JJ	FEMALE	1887	Alive	T2	N1a	M0	Stage IIB	0	1887	Positive	Positive	Negative	Not Evaluated	44	Negative
+TCGA-A8-A09E	FEMALE	1492	Alive	T4b	N1a	M0	Stage IIIB	1		Positive	Positive	Positive	Positive	Not Available	Positive
+TCGA-GM-A2DC	FEMALE	2535	Alive	T1c	N1a	M0	Stage IIA	0	2535	Positive	Positive	Not Evaluated	Negative	21	Negative
+TCGA-A2-A0T7	FEMALE	631	Alive	T2	N0 (i+)	M0	Stage IIA	0	631	Positive	Positive	Negative	Not Evaluated	2	Positive
+TCGA-D8-A27E	FEMALE	530	Alive	T1c	N0	M0	Stage IA	0	530	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-AC-A7VB	FEMALE	250	Alive	T1c	N1a	MX	Stage IIA	0	250	Positive	Negative	Not Evaluated	Not Evaluated	15	Negative
+TCGA-E9-A2JS	FEMALE	904	Dead	T2	N1	M0	Stage IIB	1	524	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AQ-A04J	FEMALE	819	Alive	T2	N0 (i+)	M0	Stage IIA	0	819	Negative	Negative	Negative	Not Evaluated	20	Negative
+TCGA-AC-A2FO	FEMALE	2255	Alive	T2	N1	MX	Stage IIB	0	2255	Positive	Negative	Negative	Indeterminate	10	Negative
+TCGA-A7-A26I	FEMALE	661	Alive	T2	N0	M0	Stage IIA	0	661	Negative	Negative	Equivocal	Negative	2	Close
+TCGA-BH-A1EV	FEMALE	365	Dead	T3	N1b	M0	Stage IIIA	1		Positive	Positive	Positive	Not Evaluated	10	Not Available
+TCGA-BH-A0HA	FEMALE	1611	Alive	T1c	N0 (i-)	M0	Stage I	0	1611	Positive	Positive	Not Available	Negative	4	Negative
+TCGA-AC-A5EH	FEMALE	511	Alive	T2	N1mi	MX	Stage IIB	0	511	Positive	Negative	Negative	Not Evaluated	14	Negative
+TCGA-MS-A51U	FEMALE	681	Alive	T2	N1	M0	Stage IIB	0	681	Positive	Positive	Negative	Negative	18	Negative
+TCGA-E9-A1N6	FEMALE	678	Dead	T2	N1	M0	Stage IIB	1	443	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-E2-A1L9	FEMALE	598	Alive	T1c	N1mi	M0	Stage IIA	0	598	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-E2-A1LH	FEMALE	3247	Alive	T1c	N0	M0	Stage I	0	3247	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-AC-A3W5	FEMALE	504	Alive	T2	N0	MX	Stage IIA	0	504	Positive	Positive	Not Evaluated	Positive	3	Close
+TCGA-A8-A0A2	FEMALE	579	Alive	T2	N0	M0	Stage IIA	0	579	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-C8-A274	FEMALE	508	Alive	T2	N0	M0	Stage IIA	0	508	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-BH-A0BA	FEMALE	1132	Alive	T3	N3a	M0	Stage IIIC	0	1132	Positive	Positive	Negative	Not Evaluated	27	Negative
+TCGA-AO-A03L	FEMALE	2442	Alive	T3	N2	M0	Stage IIIA	0	2442	Positive	Positive	Positive	Negative	17	Negative
+TCGA-BH-A208	FEMALE	1759	Dead	T2	N1b	M0	Stage IIB	0	1759	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	15	Not Available
+TCGA-AO-A1KQ	MALE	1882	Alive	T4	N1	M0	Stage IIIB	0	1882	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-BH-A0EI	FEMALE	1926	Alive	T1c	N1a	M0	Stage IIA	0	1926	Positive	Positive	Negative	Not Available	2	Negative
+TCGA-A2-A3XT	FEMALE	2770	Alive	T2	N1a	M0	Stage IIB	0	2770	Negative	Negative	Negative	Negative	13	Negative
+TCGA-AR-A2LM	FEMALE	1935	Alive	T1	N1	M0	Stage II	0	1935	Positive	Positive	Not Evaluated	Negative	3	Negative
+TCGA-AR-A24H	FEMALE	4894	Alive	T2	N0	M0	Stage IIA	0	4894	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-AR-A24K	FEMALE	1548	Alive	T2	N0	M0	Stage IIA	0	1548	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-BH-A18K	FEMALE	2763	Dead	T1	N0	M0	Stage I	0	2763	Positive	Positive	Negative	Not Available	11	Negative
+TCGA-BH-A1FR	FEMALE	1642	Dead	T4b	N1a	M0	Stage IIIB	0	1642	Positive	Positive	Not Evaluated	Not Evaluated	10	Not Available
+TCGA-OL-A66H	FEMALE	812	Alive	T1c	N1mi	MX	Stage IB	0	812	Positive	Positive	Not Evaluated	Negative	1	Negative
+TCGA-GM-A5PV	FEMALE	412	Alive	T2	N1a	M0	Stage IIB	0	412	Positive	Positive	Not Evaluated	Negative	24	Negative
+TCGA-A2-A0EU	FEMALE	1043	Alive	T1c	N0 (i-)	M0	Stage IA	0	1043	Positive	Positive	Negative	Negative	1	Positive
+TCGA-D8-A143	FEMALE	431	Alive	T2	N0	M0	Stage IIA	0	431	Negative	Negative	Negative	Not Evaluated	11	Negative
+TCGA-D8-A3Z5	FEMALE	1015	Alive	T2	N3a	M0	Stage IIIC	0	1015	Positive	Positive	Negative	Not Evaluated	21	Negative
+TCGA-AC-A2FF	FEMALE	2759	Alive	T2	N1	MX	Stage IIB	0	2759	Positive	Positive	Not Evaluated	Negative	7	Negative
+TCGA-D8-A1XV	FEMALE	461	Alive	T2	N0	M0	Stage IIA	0	461	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-AR-A251	FEMALE	3030	Alive	T2	N2	M0	Stage IIIA	0	3030	Positive	Negative	Equivocal	Negative	7	Positive
+TCGA-A8-A095	FEMALE	1277	Alive	T1c	N0	M0	Stage I	0	1277	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-LL-A6FP	FEMALE	0	Alive	T2	NX	MX	Stage IIA	0	0	Positive	Positive	Equivocal	Negative	Not Available	Negative
+TCGA-BH-A0BS	FEMALE	2612	Alive	T3	N1c	M0	Stage IIIA	0	2612	Positive	Positive	Not Available	Negative	11	Negative
+TCGA-A8-A07O	FEMALE	304	Alive	T2	N0	M0	Stage IIA	0	304	Negative	Negative	Negative	Negative	Not Available	Negative
+TCGA-E2-A15F	FEMALE	658	Alive	T1c	N0	M0	Stage I	0	658	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A8-A08L	FEMALE	30	Dead	T3	N2a	M0	Stage IIIA	0	30	Positive	Negative	Negative	Negative	Not Available	Negative
+TCGA-BH-A0W4	FEMALE	759	Alive	T2	N0 (i-)	M0	Stage IIA	0	759	Positive	Positive	Negative	Not Evaluated	3	Not Available
+TCGA-AN-A03Y	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-BH-A204	FEMALE	2534	Dead	T2	N1b	M0	Stage IIB	0	2534	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	16	Not Available
+TCGA-A8-A09K	FEMALE	912	Alive	T1c	N1	M0	Stage IIA	0	912	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AR-A24N	FEMALE	3035	Alive	T1	N0	M0	Stage I	0	3035	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-C8-A12L	FEMALE	363	Alive	T2	N0 (i-)	M0	Stage IIA	0	363	Negative	Negative	Equivocal	Not Evaluated	3	Negative
+TCGA-AN-A0XU	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Negative	Negative	Negative	Not Evaluated	16	Negative
+TCGA-C8-A26W	FEMALE	381	Alive	T2	N1	M0	Stage IIB	0	381	Positive	Positive	Equivocal	Not Evaluated	Not Available	Negative
+TCGA-A7-A6VX	FEMALE	317	Alive	T2	N0	M0	Stage IIA	0	317	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-AC-A8OQ	FEMALE	34	Alive	T2	N1a	MX	Stage IIB	0	34	Negative	Negative	Indeterminate	Not Evaluated	2	Negative
+TCGA-A2-A0YE	FEMALE	554	Alive	T2	N1a	M0	Stage IIB	0	554	Negative	Negative	Negative	Not Evaluated	19	Negative
+TCGA-E2-A1B4	FEMALE	1004	Dead	T1c	N2a	M0	Stage IIIA	0	1004	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-AR-A24O	FEMALE	3607	Alive	T3	N2	M0	Stage IIIA	1	2561	Positive	Positive	Negative	Not Evaluated	19	Positive
+TCGA-A7-A0CG	FEMALE	1043	Alive	T2	N0 (i-)	M0	Stage IIA	0	1043	Positive	Negative	Negative	Not Evaluated	5	Close
+TCGA-A2-A04V	FEMALE	1920	Dead	T2	N0 (i-)	M0	Stage IIA	0	1920	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-PE-A5DE	FEMALE	2645	Alive	T2	N0	M0	Stage IIA	0	2645	Positive	Positive	Negative	Not Evaluated	1	Not Available
+TCGA-OL-A6VR	FEMALE	1220	Alive	T1b	N0	MX	Stage IA	0	1220	Positive	Positive	Negative	Negative	2	Negative
+TCGA-A7-A4SD	FEMALE	441	Alive	T2	N0	M0	Stage IIA	0	441	Negative	Negative	Equivocal	Negative	6	Negative
+TCGA-OL-A6VQ	FEMALE	600	Alive	T2	N0	MX	Stage IIA	0	600	Positive	Positive	Not Evaluated	Negative	1	Positive
+TCGA-OL-A5RU	FEMALE	1219	Alive	T1c	N1	MX	Stage IIA	0	1219	Positive	Positive	Not Evaluated	Negative	15	Negative
+TCGA-E2-A155	FEMALE	640	Alive	T2	N1a	M0	Stage IIB	0	640	Positive	Negative	Negative	Not Evaluated	15	Negative
+TCGA-LL-A7T0	FEMALE	376	Alive	T2	N1a	M0	Stage IIB	0	376	Positive	Positive	Positive	Not Evaluated	4	Negative
+TCGA-BH-A0AY	FEMALE	777	Alive	T2	N0 (i-)	M0	Stage IIA	0	777	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-AO-A0JD	FEMALE	2190	Alive	T3	N1a	M0	Stage IIIA	0	2190	Positive	Positive	Negative	Negative	27	Negative
+TCGA-D8-A1JB	FEMALE	1688	Alive	T2	N1a	M0	Stage IIB	0	1688	Positive	Positive	Equivocal	Positive	8	Negative
+TCGA-BH-A1F6	FEMALE	2965	Dead	T4d	N2a	MX		0	2965	Negative	Negative	Negative	Not Evaluated	6	Not Available
+TCGA-E2-A1LS	FEMALE	1604	Alive	T1c	N0	M0	Stage IA	0	1604	Negative	Negative	Negative	Not Evaluated	5	Negative
+TCGA-D8-A145	FEMALE	410	Alive	T1c	N1a	M0	Stage IIA	0	410	Positive	Positive	Equivocal	Negative	7	Negative
+TCGA-E2-A14T	FEMALE	2311	Alive	T2	N0	M0	Stage IIA	0	2311	Positive	Positive	Negative	Negative	7	Negative
+TCGA-BH-A0E9	FEMALE	2489	Alive	T2	N1a	M0	Stage IIB	0	2489	Positive	Positive	Negative	Not Available	12	Negative
+TCGA-BH-A0HU	FEMALE	392	Alive	T1c	N0 (i-)	M0	Stage IA	0	392	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-BH-A201	FEMALE	856	Alive	T1	N0	M0	Stage IA	0	856	Positive	Positive	Negative	Not Evaluated	2	Not Available
+TCGA-A8-A06X	FEMALE	943	Dead	T3	N0	M0	Stage IIB	0	943	Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-BH-A42V	FEMALE	635	Alive	T1c	N1mi	M0	Stage IB	0	635	Positive	Positive	Negative	Not Evaluated	3	Positive
+TCGA-BH-A0HO	FEMALE	76	Alive	T1c	N1a	M0	Stage IIA	0	76	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-E2-A15I	FEMALE	1692	Alive	T2	N0	M0	Stage IIA	0	1692	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-BH-A0HX	FEMALE	829	Alive	T2	N1a	M0	Stage IIB	0	829	Positive	Positive	Negative	Not Evaluated	24	Negative
+TCGA-BH-A0E0	FEMALE	134	Alive	T3	N3a	M0	Stage IIIC	0	134	Negative	Negative	Negative	Not Evaluated	21	Negative
+TCGA-BH-A0E1	FEMALE	477	Alive	T2	N1	M0	Stage IIB	0	477	Positive	Positive	Equivocal	Negative	17	Negative
+TCGA-A2-A0T5	FEMALE	531	Alive	T2	N0 (i-)	M0	Stage IIA	0	531	Positive	Positive	Negative	Negative	4	Negative
+TCGA-E2-A14Q	FEMALE	1163	Alive	T2	N1mi	M0	Stage IIB	0	1163	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-AR-A1AS	FEMALE	1150	Alive	T2	N1	M0	Stage IIB	0	1150	Positive	Positive	Negative	Not Evaluated	17	Negative
+TCGA-BH-A0BQ	FEMALE	2255	Alive	T1c	N0	M0	Stage I	1	1709	Positive	Positive	Positive	Not Available	2	Negative
+TCGA-AR-A2LO	FEMALE	1198	Alive	T2	N1	M0	Stage IIB	0	1198	Positive	Positive	Equivocal	Negative	16	Negative
+TCGA-AC-A2FB	FEMALE	1234	Alive	T2	N0	MX	Stage IIA	0	1234	Positive	Positive	Positive	Not Evaluated	1	Negative
+TCGA-E2-A105	FEMALE	1308	Alive	T2	N0 (i-)	M0	Stage IIA	0	1308	Positive	Positive	Equivocal	Not Evaluated	1	Negative
+TCGA-D8-A4Z1	FEMALE	659	Alive	T1c	N0	M0	Stage IA	0	659	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-A8-A0A6	FEMALE	640	Alive	T2	N3a	M0	Stage IIIC	0	640	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A1FH	FEMALE	1034	Dead	T2	N1b	M1	Stage IV	0	1034	Positive	Negative	Not Evaluated	Not Evaluated	13	Not Available
+TCGA-AQ-A0Y5	FEMALE	172	Dead	T2	N2a	MX	Stage IIIA	0	172	Positive	Positive	Positive	Positive	17	Negative
+TCGA-BH-A42T	FEMALE	320	Dead	T2	N0 (i+)	M0	Stage IIA	0	320	Positive	Positive	Positive	Equivocal	2	Negative
+TCGA-E9-A1N3	FEMALE	1059	Alive	T1c	N2	M0	Stage IIIA	0	1059	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	7	Negative
+TCGA-UL-AAZ6	FEMALE	518	Alive	T2	N0	MX	Stage IIA	0	518	Positive	Positive	Positive	Not Evaluated	Not Available	Not Available
+TCGA-A2-A0CV	FEMALE	3011	Alive	T2	N1a	M0	Stage IIB	0	3011	Positive	Positive	Negative	Negative	18	Negative
+TCGA-AN-A041	FEMALE	7	Alive	T2	N1a	M0	Stage IIB	0	7	Positive	Negative	Positive	Not Evaluated	18	Negative
+TCGA-AO-A1KP	FEMALE	2953	Alive	T1	N1	M0	Stage IIA	0	2953	Positive	Positive	Negative	Negative	9	Negative
+TCGA-A1-A0SH	FEMALE	1437	Alive	T2	N0 (i-)	M0	Stage IIA	0	1437	Negative	Positive	Equivocal	Negative	2	Negative
+TCGA-A2-A0ST	FEMALE	3017	Alive	T1c	N1a	M0	Stage IIA	1		Negative	Negative	Not Evaluated	Negative	9	Negative
+TCGA-AO-A12C	FEMALE	2372	Alive	T2	N1a	M0	Stage IIB	0	2372	Positive	Positive	Positive	Negative	31	Positive
+TCGA-EW-A1OY	FEMALE	908	Alive	T2	N0	MX	Stage IIA	0	908	Positive	Positive	Negative	Negative	1	Negative
+TCGA-OL-A5S0	FEMALE	620	Alive	T2	N1a	MX	Stage IIB	0	620	Positive	Negative	Not Evaluated	Positive	12	Negative
+TCGA-D8-A1XC	FEMALE	377	Dead	T4b	N1a	M0	Stage IIIB	1		Positive	Positive	Negative	Not Evaluated	20	Negative
+TCGA-AR-A1AY	FEMALE	1026	Alive	T1	N0	M0	Stage I	0	1026	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-A8-A093	FEMALE	546	Alive	T2	N0	M0	Stage IIA	0	546	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A6R9	FEMALE	160	Alive	T2	N0	M0	Stage IIA	0	160	Negative	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-AO-A0J2	FEMALE	997	Alive	T1c	N0 (i-)	M0	Stage IA	0	997	Negative	Negative	Equivocal	Negative	5	Negative
+TCGA-AC-A6IX	FEMALE	373	Alive	T2	N3a	MX	Stage IIIC	0	373	Positive	Positive	Not Evaluated	Not Evaluated	21	Negative
+TCGA-B6-A0I2	FEMALE	4361	Alive	T1c	N0 (i-)	M0	Stage IA	0	4361	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	8	Not Available
+TCGA-EW-A1P1	FEMALE	1210	Alive	T2	N3b	MX	Stage IIIC	1	1014	Negative	Negative	Equivocal	Negative	32	Negative
+TCGA-AR-A254	FEMALE	2605	Alive	T2	N2	M0	Stage IIIA	0	2605	Positive	Positive	Positive	Not Evaluated	30	Negative
+TCGA-GM-A3XN	FEMALE	2019	Alive	T1c	N2a	M0	Stage IIIA	0	2019	Positive	Positive	Negative	Negative	34	Negative
+TCGA-AN-A0XV	FEMALE	162	Alive	T2	N2	M0	Stage IIIA	0	162	Positive	Positive	Positive	Negative	16	Negative
+TCGA-E2-A574	FEMALE	1179	Alive	T2	N0	M0	Stage IIA	0	1179	Negative	Negative	Equivocal	Negative	4	Negative
+TCGA-B6-A401	FEMALE	2596	Alive	T1c	N1a	M0	Stage IIA	0	2596	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E2-A1LE	FEMALE	879	Dead	T2	N3a	M0	Stage IIIC	1	361	Negative	Negative	Positive	Not Evaluated	28	Negative
+TCGA-D8-A1XU	FEMALE	395	Alive	T1c	N0	M0	Stage IA	0	395	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-E2-A1IK	FEMALE	1800	Alive	T1c	N1mi	M0	Stage IIA	0	1800	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-E2-A2P6	FEMALE	1051	Alive	T2	N1	M0	Stage IIB	0	1051	Positive	Positive	Not Evaluated	Negative	5	Positive
+TCGA-A7-A26G	FEMALE	722	Alive	T2	N0 (i+)	M0	Stage IIA	0	722	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-LL-A6FR	FEMALE	489	Alive	T2	N0 (i-)	MX	Stage IIA	0	489	Negative	Positive	Equivocal	Positive	1	Negative
+TCGA-E2-A1IL	FEMALE	118	Alive	T1c	N1a	M0	Stage IIA	0	118	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E9-A22E	FEMALE	1269	Alive	T2	N2	M0	Stage IIIA	0	1269	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-D8-A1X9	FEMALE	727	Alive	T2	N1a	M0	Stage IIB	0	727	Positive	Positive	Indeterminate	Negative	23	Not Available
+TCGA-C8-A26X	FEMALE	376	Alive	T1	N1	M0	Stage IIA	0	376	Negative	Negative	Negative	Not Evaluated	Not Available	Negative
+TCGA-C8-A133	FEMALE	0	Alive	T3	N1	M0	Stage IIIA	0	0	Positive	Positive	Not Evaluated	Not Evaluated	26	Negative
+TCGA-BH-A0B3	FEMALE	1203	Alive	T2	N1a	M0	Stage IIB	0	1203	Negative	Negative	Negative	Not Evaluated	29	Negative
+TCGA-C8-A12Z	FEMALE	382	Alive	T2	N1	M0	Stage IIB	0	382	Negative	Negative	Positive	Not Evaluated	2	Negative
+TCGA-AC-A3TM	FEMALE	762	Alive	T3	N1mi	M0	Stage IIIA	0	762	Positive	Positive	Equivocal	Equivocal	4	Negative
+TCGA-BH-A1EN	FEMALE	2127	Dead	T2	NX	M0	Stage IIA	0	2127	Negative	Negative	Positive	Not Available	Not Available	Negative
+TCGA-AO-A1KR	FEMALE	2513	Alive	T2	N0	M0	Stage IIA	0	2513	Negative	Negative	Negative	Negative	4	Negative
+TCGA-AN-A0XS	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Negative	Positive	Negative	Not Evaluated	11	Negative
+TCGA-W8-A86G	FEMALE	347	Alive	T2a	N0 (i-)	MX	Stage IIA	0	347	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-E2-A1LA	FEMALE	748	Alive	T1c	N1a	M0	Stage IIA	0	748	Positive	Positive	Equivocal	Negative	35	Negative
+TCGA-AC-A2FK	FEMALE	2650	Alive	T2	N3a	M0	Stage IIIC	0	2650	Positive	Positive	Not Evaluated	Negative	3	Negative
+TCGA-A2-A0YL	FEMALE	1474	Alive	T3	N2a	M0	Stage IIIA	0	1474	Positive	Positive	Negative	Not Evaluated	29	Negative
+TCGA-BH-A0EE	FEMALE	943	Alive	T3	N0 (i-)	M0	Stage IIB	0	943	Negative	Negative	Positive	Not Evaluated	1	Negative
+TCGA-D8-A1Y1	FEMALE	302	Dead	T3	N1a	MX	Stage IIIA	1		Positive	Positive	Negative	Not Evaluated	22	Not Available
+TCGA-BH-A18G	FEMALE	149	Alive	T1c	N0	M0	Stage IA	0	149	Negative	Negative	Negative	Not Available	3	Negative
+TCGA-AN-A0AR	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Negative	Negative	Negative	Not Evaluated	17	Negative
+TCGA-AR-A24T	FEMALE	3202	Alive	T3	N3	M0	Stage IIIC	0	3202	Positive	Positive	Equivocal	Negative	17	Negative
+TCGA-A2-A0YI	FEMALE	1505	Alive	T1c	N0 (i+)	M0	Stage I	0	1505	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A0BJ	FEMALE	660	Alive	T2	N1a	M0	Stage IIB	0	660	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-E2-A1B0	FEMALE	1631	Alive	T2	N2	M0	Stage IIIA	0	1631	Negative	Negative	Positive	Not Evaluated	28	Negative
+TCGA-E9-A1N4	FEMALE	1000	Alive	T2	N2	M0	Stage IIIA	0	1000	Positive	Positive	Positive	Not Evaluated	7	Negative
+TCGA-BH-A18M	FEMALE	2207	Dead	T3	N1	M0	Stage IIIA	0	2207	Positive	Positive	Positive	Positive	6	Negative
+TCGA-EW-A1OW	FEMALE	694	Alive	T2	N0	MX	Stage IIA	0	694	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-E9-A1RF	FEMALE	200	Alive	T2	N2	M0	Stage IIIA	0	200	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-A1-A0SO	FEMALE	852	Alive	T2	N1	M0	Stage IIB	0	852	Negative	Negative	Equivocal	Negative	9	Negative
+TCGA-A8-A090	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-A8-A079	FEMALE	274	Alive	T4b	N3	M0	Stage IIIB	0	274	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A7-A0CJ	FEMALE	931	Alive	T2	N0 (i-)	M0	Stage IIA	0	931	Positive	Positive	Negative	Not Evaluated	1	Positive
+TCGA-BH-A0HW	FEMALE	1561	Alive	T1c	N0 (i-)	M0	Stage IA	0	1561	Positive	Negative	Equivocal	Negative	2	Negative
+TCGA-B6-A0I9	FEMALE	362	Dead	T3	NX	M1	Stage IV	1		Indeterminate	Positive	Not Evaluated	Not Available	Not Available	Not Available
+TCGA-E9-A1RA	FEMALE	1369	Alive	T1c	N0	M0	Stage IA	0	1369	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-B6-A0RI	FEMALE	7126	Alive	T4b	N1b	M0	Stage IIIB	1	1100	Positive	Positive	Not Evaluated	Not Available	15	Negative
+TCGA-AN-A0AJ	FEMALE	303	Alive	T3	N0	M0	Stage IIB	0	303	Positive	Positive	Positive	Not Evaluated	9	Negative
+TCGA-B6-A0WS	FEMALE	2965	Dead	T1c	NX	MX	Stage X	0	2965	Positive	Positive	Not Evaluated	Not Evaluated	Not Available	Positive
+TCGA-B6-A0IE	FEMALE	1993	Dead	T3	N1b	M0	Stage IIIA	1	834	Negative	Negative	Not Evaluated	Not Available	24	Close
+TCGA-XX-A899	FEMALE	467	Alive	T1c	N2a	MX	Stage IIIA	0	467	Positive	Positive	Negative	Not Evaluated	22	Negative
+TCGA-A2-A0T1	FEMALE	521	Alive	T3	N3	M0	Stage IIIC	0	521	Negative	Negative	Positive	Not Evaluated	10	Negative
+TCGA-A2-A25B	FEMALE	1291	Alive	T2	N1	M0	Stage IIB	1	1290	Positive	Positive	Equivocal	Negative	8	Close
+TCGA-C8-A12Y	FEMALE	1476	Alive	T2	N1	M0	Stage IIB	0	1476	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	9	Negative
+TCGA-A2-A0EP	FEMALE	3603	Alive	T1	N0 (i+)	M0	Stage I	0	3603	Positive	Negative	Negative	Negative	1	Negative
+TCGA-BH-A1EX	FEMALE	1508	Dead	T2	N1b	M0	Stage IIB	0	1508	Positive	Positive	Positive	Negative	24	Not Available
+TCGA-EW-A1OX	FEMALE	911	Alive	T2	N0	MX	Stage IIA	0	911	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-OL-A66N	FEMALE	792	Alive	T3	N3	MX	Stage IIIC	0	792	Positive	Negative	Not Evaluated	Negative	15	Negative
+TCGA-BH-A1FD	FEMALE	1009	Dead	T1c	N0	M0	Stage I	0	1009	Positive	Positive	Negative	Not Evaluated	19	Not Available
+TCGA-AC-A2FM	FEMALE	792	Dead	T2	N1mi	M0	Stage IIB	1	780	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	2	Negative
+TCGA-BH-A0HN	FEMALE	516	Alive	T1c	N0 (i-)	M0	Stage IA	0	516	Positive	Positive	Equivocal	Negative	2	Positive
+TCGA-A8-A08I	FEMALE	365	Alive	T2	N0	M0	Stage IIA	0	365	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A202	FEMALE	795	Alive	T2	N0	M0	Stage II	0	795	Positive	Positive	Positive	Not Evaluated	4	Not Available
+TCGA-E9-A1NH	FEMALE	576	Alive	T2	N1	M0	Stage IIB	0	576	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-A2-A25A	FEMALE	3276	Alive	T2	N0 (i-)	M0	Stage IIA	0	3276	Positive	Positive	Equivocal	Negative	14	Negative
+TCGA-A2-A04N	FEMALE	4354	Alive	T1c	N0 (i-)	M0	Stage IA	0	4354	Positive	Positive	Not Evaluated	Negative	6	Negative
+TCGA-A2-A0SU	FEMALE	1662	Alive	T2	N0 (i+)	M0	Stage IIA	0	1662	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-A8-A08A	FEMALE	30	Alive	T1c	N0	M0	Stage I	0	30	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A8-A09Z	FEMALE	0	Alive	T3	N0	M0	Stage IIB	0	0	Positive	Negative	Negative	Negative	Not Available	Positive
+TCGA-PL-A8LY	FEMALE	8	Alive	T3	N0	M0	Stage IIB	1		Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	Not Available
+TCGA-B6-A0RG	FEMALE	2082	Alive	T3	N0 (i-)	M0	Stage IIB	0	2082	Negative	Negative	Not Evaluated	Not Available	19	Negative
+TCGA-D8-A142	FEMALE	425	Alive	T3	N0	M0	Stage IIB	0	425	Negative	Negative	Equivocal	Negative	14	Negative
+TCGA-E9-A6HE	FEMALE	847	Alive	T3	N3	MX	Stage IIIC	0	847	Positive	Positive	Negative	Negative	12	Negative
+TCGA-E9-A54X	FEMALE	727	Alive	T1b	N0 (i-)	M0	Stage IA	0	727	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A2-A04Y	FEMALE	1099	Alive	T2	N1mi	M0	Stage IIB	0	1099	Positive	Positive	Negative	Negative	13	Negative
+TCGA-E9-A5UP	FEMALE	803	Alive	T2	N0	M0	Stage IIA	0	803	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-A8-A07R	FEMALE	273	Alive	T2	N3a	M0	Stage IIIC	0	273	Negative	Negative	Positive	Not Available	Not Available	Positive
+TCGA-A8-A09M	FEMALE	1006	Alive	T2	N3a	M0	Stage IIIC	0	1006	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-B6-A0IQ	FEMALE	4285	Alive	T3	N1b	M0	Stage IIIA	0	4285	Negative	Negative	Not Evaluated	Not Available	26	Negative
+TCGA-AO-A0JL	FEMALE	1683	Alive	T2	N2a	M0	Stage IIIA	0	1683	Negative	Negative	Negative	Positive	26	Negative
+TCGA-D8-A27L	FEMALE	499	Alive	T1c	N2a	M0	Stage IIIA	0	499	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-BH-A18U	FEMALE	1563	Dead	T2	N2a	M0	Stage IIIA	0	1563	Positive	Positive	Positive	Not Available	16	Negative
+TCGA-GM-A2D9	FEMALE	1812	Dead	T1c	N0 (i-)	M0	Stage I	1	536	Positive	Positive	Not Evaluated	Negative	2	Negative
+TCGA-A8-A09V	FEMALE	457	Alive	T2	N0	M0	Stage IIA	0	457	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-E2-A1LK	FEMALE	266	Dead	T4b	N3a	M0	Stage IIIC	1	155	Negative	Negative	Equivocal	Negative	15	Negative
+TCGA-A2-A4S1	FEMALE	820	Alive	T2	N0	M0	Stage IIA	0	820	Positive	Negative	Negative	Not Evaluated	1	Negative
+TCGA-D8-A73U	FEMALE	492	Alive	T2	N0	M0	Stage IIA	1		Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-PE-A5DC	FEMALE	1430	Dead	T2	N2a	M0	Stage IIIA	0	1430	Positive	Positive	Positive	Not Evaluated	31	Not Available
+TCGA-PL-A8LZ	FEMALE	302	Alive	T4b	N2	M0	Stage IIIB	0	302	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	Not Available
+TCGA-E9-A247	FEMALE	1186	Alive	T1c	N0 (i-)	M0	Stage IA	0	1186	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-E9-A295	FEMALE	375	Alive	T2	N0 (i-)	M0	Stage IIA	0	375	Positive	Positive	Positive	Not Evaluated	7	Negative
+TCGA-D8-A1JK	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Negative	Positive	Negative	Not Evaluated	13	Negative
+TCGA-A1-A0SJ	FEMALE	416	Alive	T3	N1a	M0	Stage IIIA	0	416	Positive	Positive	Equivocal	Negative	19	Negative
+TCGA-A8-A08F	FEMALE	1004	Alive	T2	N3a	M0	Stage IIIC	0	1004	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AC-A2FG	FEMALE	1853	Alive	T2	N1a	MX	Stage IIB	0	1853	Positive	Negative	Not Evaluated	Negative	11	Negative
+TCGA-A8-A07I	FEMALE	426	Alive	T2	N2a	M0	Stage IIIA	0	426	Positive	Negative	Positive	Positive	Not Available	Negative
+TCGA-A8-A07C	FEMALE	1034	Alive	T2	N0	M0	Stage IIA	0	1034	Negative	Negative	Negative	Negative	Not Available	Negative
+TCGA-B6-A0IB	FEMALE	3941	Dead	T3	N3	M1	Stage IV	1	2717	Positive	Positive	Not Evaluated	Not Available	15	Negative
+TCGA-C8-A1HL	FEMALE	317	Alive	T3	N1	M0	Stage IIIA	0	317	Positive	Negative	Equivocal	Not Evaluated	9	Negative
+TCGA-AO-A03P	FEMALE	2911	Dead	T2	N1	M0	Stage IIB	1	1922	Positive	Positive	Negative	Not Evaluated	26	Close
+TCGA-A7-A3IZ	FEMALE	322	Alive	T2	N0 (i+)	M0	Stage IIA	0	322	Positive	Negative	Equivocal	Negative	1	Positive
+TCGA-A7-A425	FEMALE	447	Alive	T3	N3a	MX	Stage IIIC	1	419	Positive	Positive	Indeterminate	Negative	19	Negative
+TCGA-AC-A3BB	FEMALE	987	Alive	T3	N2a	MX	Stage IIIA	0	987	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-E2-A15G	FEMALE	554	Alive	T2	N0	M0	Stage IIA	0	554	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-WT-AB41	FEMALE	1611	Alive	T2	N1mi	MX	Stage IIB	0	1611	Positive	Positive	Not Evaluated	Not Evaluated	2	Negative
+TCGA-A8-A09T	FEMALE	579	Alive	T1c	N0	MX		0	579	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-E2-A15D	FEMALE	526	Alive	T2	N0	M0	Stage IIA	0	526	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-EW-A2FW	FEMALE	672	Alive	T2	N0 (i-)	MX	Stage IIA	0	672	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-3C-AALK	FEMALE	1448	Alive	T1c	N0 (i+)	M0	Stage IA	0	1448	Positive	Positive	Positive	Not Evaluated	2	Close
+TCGA-GM-A2DD	FEMALE	2282	Alive	T1c	N0 (i-)	M0	Stage I	0	2282	Negative	Negative	Equivocal	Negative	2	Negative
+TCGA-AO-A12B	FEMALE	2989	Alive	T2	N0 (i-)	M0	Stage IIA	0	2989	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A2-A0EM	FEMALE	3094	Alive	T1	N0 (i-)	M0	Stage IA	0	3094	Positive	Positive	Not Evaluated	Negative	1	Negative
+TCGA-A8-A081	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-D8-A1XJ	FEMALE	664	Alive	T3	N1a	MX	Stage IIIA	0	664	Positive	Positive	Positive	Not Evaluated	43	Negative
+TCGA-A8-A0A7	FEMALE	30	Alive	T2	N1a	M0	Stage IIB	0	30	Negative	Negative	Positive	Positive	Not Available	Negative
+TCGA-BH-A0HL	FEMALE	72	Alive	T2	N1a	M0	Stage IIB	0	72	Positive	Positive	Equivocal	Negative	17	Negative
+TCGA-EW-A1PA	FEMALE	575	Alive	T2	N1a	M0	Stage IIB	0	575	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-D8-A27K	FEMALE	1461	Alive	T2	N1a	M0	Stage IIB	0	1461	Positive	Positive	Negative	Not Evaluated	17	Negative
+TCGA-E9-A2JT	FEMALE	288	Alive	T2	N0 (i-)	M0	Stage IIA	0	288	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-S3-AA0Z	FEMALE	629	Alive	T2	N1a	M0	Stage IIB	0	629	Positive	Positive	Equivocal	Negative	12	Negative
+TCGA-PL-A8LX	FEMALE	5	Alive	T4	N1a	M1	Stage IV	1		Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	Not Available
+TCGA-A1-A0SE	FEMALE	1321	Alive	T1c	N0 (i-)	M0	Stage I	0	1321	Positive	Positive	Negative	Negative	8	Negative
+TCGA-AN-A0XP	FEMALE	9	Alive	T2	N2	M0	Stage IIIA	0	9	Positive	Positive	Positive	Not Evaluated	19	Negative
+TCGA-E2-A1LL	FEMALE	1309	Alive	T3	N2a	MX	Stage IIIA	1	1303	Negative	Negative	Negative	Not Evaluated	44	Negative
+TCGA-D8-A1XR	FEMALE	482	Alive	T2	N1a	M0	Stage IIB	0	482	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-A2-A0CU	FEMALE	158	Dead	T2	N0 (i+)	M0	Stage IIA	0	158	Positive	Positive	Equivocal	Negative	1	Close
+TCGA-D8-A73W	FEMALE	385	Dead	T3	N1a	MX	Stage IIIA	1	21	Positive	Negative	Negative	Not Evaluated	13	Negative
+TCGA-AN-A0AK	FEMALE	224	Alive	T2	N0	M0	Stage IIA	0	224	Positive	Negative	Positive	Not Evaluated	11	Negative
+TCGA-B6-A0WZ	FEMALE	6292	Alive	T2	N1b	M0	Stage II	1	5117	Positive	Positive	Not Evaluated	Not Evaluated	21	Negative
+TCGA-AN-A049	FEMALE	19	Alive	T2	N0	M0	Stage IIA	0	19	Positive	Positive	Negative	Not Evaluated	9	Positive
+TCGA-D8-A1XF	FEMALE	463	Alive	T2	N0	M0	Stage IIA	0	463	Positive	Positive	Negative	Not Evaluated	8	Not Available
+TCGA-S3-AA14	FEMALE	529	Alive	T1	N0 (i+)		Stage I	0	529	Positive	Positive	Positive	Not Evaluated	4	Negative
+TCGA-D8-A1JU	FEMALE	447	Alive	T1c	N0	M0	Stage IA	0	447	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-A2-A0CM	FEMALE	754	Dead	T2	N0 (i-)	M0	Stage IIA	0	754	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-AO-A0JG	FEMALE	798	Alive	T2	N2a	M0	Stage IIIA	0	798	Positive	Positive	Negative	Not Evaluated	19	Close
+TCGA-B6-A0RU	FEMALE	8605	Alive	T1c	N0 (i-)	M0	Stage IA	1	3076	Negative	Negative	Not Evaluated	Not Available	15	Negative
+TCGA-OL-A5RV	FEMALE	1062	Alive	T2	N3	MX	Stage IIIC	0	1062	Positive	Positive	Not Evaluated	Negative	29	Negative
+TCGA-BH-A0EB	FEMALE	745	Alive	T1c	N0 (i-)	M0	Stage IA	0	745	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-C8-A12W	FEMALE	385	Alive	T4	N1	M0	Stage IIIB	0	385	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-AR-A24M	FEMALE	3660	Alive	T2	N2	M0	Stage IIIA	0	3660	Positive	Positive	Negative	Not Evaluated	28	Negative
+TCGA-A2-A0D1	FEMALE	1051	Alive	T2	N0 (i-)	M0	Stage IIA	0	1051	Negative	Negative	Positive	Positive	2	Negative
+TCGA-B6-A0IO	FEMALE	5042	Alive	T2	N0 (i-)	M0	Stage IIA	0	5042	Positive	Indeterminate	Not Evaluated	Not Available	17	Negative
+TCGA-S3-AA11	FEMALE	421	Alive	T2	N0	M0	Stage IIA	0	421	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-E2-A158	FEMALE	450	Alive	T1c	N1mi	M0	Stage IIA	0	450	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-D8-A1JD	FEMALE	552	Alive	T2	N1a	M0	Stage IIB	0	552	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-LL-A5YM	FEMALE	394	Alive	T4b	NX	M0	Stage IIIB	1	258	Positive	Positive	Equivocal	Positive	Not Available	Positive
+TCGA-V7-A7HQ	FEMALE	2033	Alive	T1c	N2a	M0	Stage IIIA	0	2033	Positive	Positive	Not Evaluated	Negative	18	Positive
+TCGA-E2-A10F	FEMALE	878	Alive	T2	N0 (i-)	M0	Stage IIA	0	878	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-AN-A0FL	FEMALE	231	Alive	T2	N0	M0	Stage IIA	0	231	Negative	Negative	Positive	Not Evaluated	8	Negative
+TCGA-E9-A245	FEMALE	26	Alive	T2	N1	M0	Stage IIB	0	26	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-A1-A0SI	FEMALE	635	Alive	T2	N1a	M0	Stage IIB	0	635	Positive	Positive	Negative	Not Evaluated	23	Negative
+TCGA-A2-A3KC	FEMALE	1102	Alive	T2	N1a	M0	Stage IIB	0	1102	Positive	Positive	Equivocal	Negative	19	Negative
+TCGA-S3-A6ZF	FEMALE	572	Alive	T2	N0	M0	Stage IIA	0	572	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-BH-A0BO	FEMALE	2197	Alive	T1b	N0	M0	Stage I	0	2197	Positive	Positive	Negative	Not Available	3	Negative
+TCGA-PE-A5DD	FEMALE	1953	Alive	T2	N0	M0	Stage IIA	0	1953	Positive	Negative	Positive	Positive	2	Negative
+TCGA-EW-A3U0	FEMALE	532	Alive	T3	N1a	M0	Stage IIIA	0	532	Negative	Negative	Negative	Not Evaluated	25	Negative
+TCGA-EW-A1P5	FEMALE	703	Alive	T2	N1a	M0	Stage IIB	0	703	Positive	Positive	Negative	Negative	40	Negative
+TCGA-AR-A24R	FEMALE	3430	Alive	T1	N2	M0	Stage IIIA	0	3430	Positive	Positive	Negative	Negative	28	Negative
+TCGA-A2-A04T	FEMALE	2246	Alive	T2	N0 (i-)	M0	Stage IIA	0	2246	Negative	Negative	Equivocal	Negative	3	Negative
+TCGA-AO-A03U	FEMALE	1793	Dead	T1c	N0 (i-)	M0	Stage I	1	1614	Negative	Negative	Negative	Negative	8	Negative
+TCGA-A2-A0CT	FEMALE	2289	Alive	T2	N0 (i-)	M0	Stage IIA	0	2289	Positive	Negative	Equivocal	Negative	2	Negative
+TCGA-BH-A1F5	FEMALE	2712	Dead	T1c	N1a	M0	Stage IIA	0	2712	Positive	Positive	Negative	Not Evaluated	4	Not Available
+TCGA-B6-A3ZX	FEMALE	1152	Dead	T3	N1	M1	Stage IV	1	994	Negative	Negative	Negative	Not Evaluated	7	Close
+TCGA-A2-A0CY	FEMALE	1673	Alive	T2	N1	M0	Stage IIB	0	1673	Positive	Positive	Negative	Negative	22	Negative
+TCGA-3C-AALJ	FEMALE	1474	Alive	T2	N1a	M0	Stage IIB	0	1474	Positive	Positive	Indeterminate	Not Evaluated	23	Negative
+TCGA-A8-A06Y	FEMALE	791	Alive	T2	N0	M0	Stage IIA	1	791	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AN-A04A	FEMALE	90	Alive	T2	N2	M0	Stage IIIA	0	90	Positive	Positive	Negative	Not Evaluated	7	Positive
+TCGA-A8-A08T	FEMALE	3409	Dead	T2	N1a	M1	Stage IV	1	2557	Positive	Positive	Positive	Positive	Not Available	Positive
+TCGA-AR-A1AW	FEMALE	2632	Alive	T2	N0	M0	Stage IIA	0	2632	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-E2-A156	FEMALE	726	Alive	T1c	N0	M0	Stage I	0	726	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-D8-A1J8	FEMALE	431	Alive	T2	N1a	M0	Stage IIB	0	431	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-EW-A1P7	FEMALE	915	Alive	T2	N0 (i-)	M0	Stage IIA	1	729	Negative	Negative	Equivocal	Negative	2	Negative
+TCGA-EW-A1P6	FEMALE	562	Alive	T2	N1a	M0	Stage IIB	0	562	Positive	Positive	Negative	Not Evaluated	25	Close
+TCGA-C8-A278	FEMALE	297	Alive	T2	N2	M0	Stage IIIA	0	297	Negative	Negative	Positive	Not Evaluated	Not Available	Negative
+TCGA-B6-A0IG	FEMALE	4456	Dead	T2	N1b	M0	Stage IIB	0	4456	Positive	Positive	Not Evaluated	Not Available	16	Negative
+TCGA-AR-A1AL	FEMALE	2971	Alive	T3	N1	M0	Stage IIIA	0	2971	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-E2-A15P	FEMALE	595	Alive	T1c	N0	M0	Stage IA	0	595	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-BH-A1FE	FEMALE	2273	Dead	T2	N1	M0	Stage IIB	0	2273	Positive	Positive	Not Evaluated	Not Evaluated	12	Not Available
+TCGA-BH-A0E6	FEMALE	293	Alive	T1c	N0 (i-)	M0	Stage IA	0	293	Negative	Negative	Equivocal	Negative	1	Negative
+TCGA-E9-A1RE	FEMALE	1419	Alive	T2	N2	M0	Stage IIIA	0	1419	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-E2-A10E	FEMALE	865	Alive	T1c	N1a	M0	Stage IIA	0	865	Positive	Positive	Equivocal	Negative	21	Negative
+TCGA-BH-A0BR	FEMALE	2330	Alive	T1c	N0	M0	Stage I	0	2330	Positive	Positive	Negative	Not Available	3	Negative
+TCGA-JL-A3YX	FEMALE	352	Alive	T2	N0	M0	Stage IIA	0	352	Positive	Positive	Positive	Not Evaluated	16	Negative
+TCGA-OL-A66K	FEMALE	1275	Dead	T2	N0	MX	Stage IIA	0	1275	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-BH-A18N	FEMALE	468	Dead	T2	N1b	M0	Stage IIA	0	468	Positive	Positive	Negative	Not Available	26	Negative
+TCGA-AN-A0XO	FEMALE	375	Alive	T2	N2	M0	Stage IIIA	0	375	Positive	Negative	Negative	Not Evaluated	12	Negative
+TCGA-E2-A572	FEMALE	1208	Alive	T2	N2	M0	Stage IIIA	0	1208	Positive	Positive	Equivocal	Negative	13	Negative
+TCGA-BH-A18T	FEMALE	224	Dead	T2	N0	M0	Stage IIA	0	224	Negative	Negative	Positive	Negative	Not Available	Negative
+TCGA-AN-A0AT	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Negative	Negative	Negative	Not Evaluated	10	Negative
+TCGA-OL-A66I	FEMALE	714	Alive	T1c	N1mi	MX	Stage IIA	0	714	Negative	Negative	Not Evaluated	Negative	13	Negative
+TCGA-E9-A1NI	FEMALE	300	Alive	T2	N0	M0	Stage IIA	0	300	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-AN-A04C	FEMALE	54	Alive	T2	N1	M0	Stage IIB	0	54	Negative	Negative	Positive	Not Evaluated	15	Positive
+TCGA-A7-A0CH	FEMALE	1079	Alive	T2	N0 (i-)	M0	Stage IIA	0	1079	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	2	Negative
+TCGA-C8-A8HQ	FEMALE	380	Alive	T2	N1	M0	Stage IIB	0	380	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-C8-A12V	FEMALE	385	Alive	T2	N0	M0	Stage IIA	0	385	Negative	Negative	Negative	Not Evaluated	5	Not Available
+TCGA-E9-A1R2	FEMALE	1063	Alive	T2	N3	MX	Stage IIIC	0	1063	Positive	Negative	Equivocal	Negative	19	Positive
+TCGA-A2-A1G4	FEMALE	595	Alive	T3	N1a	M0	Stage IIIA	0	595	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-JL-A3YW	FEMALE	360	Alive	T2	N1	M0	Stage IIB	0	360	Positive	Positive	Positive	Not Evaluated	16	Negative
+TCGA-AR-A252	FEMALE	2838	Alive	T1	N0	M0	Stage I	0	2838	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E2-A2P5	FEMALE	821	Dead	T2	N3	M0	Stage IIIC	1	597	Positive	Positive	Not Evaluated	Negative	25	Negative
+TCGA-A7-A26J	FEMALE	627	Alive	T2	N0	M0	Stage IIA	0	627	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E2-A10A	FEMALE	1229	Alive	T3	N0 (i-)	M0	Stage IIB	1	75	Positive	Positive	Positive	Negative	3	Negative
+TCGA-B6-A0RN	FEMALE	8008	Alive	T1c	N0 (i-)	M0	Stage IA	0	8008	Negative	Negative	Not Evaluated	Not Available	19	Negative
+TCGA-A8-A06Q	FEMALE	31	Alive	T3	N2	M0	Stage IIIA	0	31	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AO-A12F	FEMALE	1842	Alive	T2	N0 (i-)	M0	Stage IIA	0	1842	Negative	Negative	Negative	Not Evaluated	17	Negative
+TCGA-LD-A7W6	FEMALE	404	Alive	T2	N1a	M0	Stage IIB	0	404	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-AC-A4ZE	FEMALE	890	Alive	T3	N0	M0	Stage IIB	0	890	Positive	Positive	Positive	Not Evaluated	1	Negative
+TCGA-A8-A07P	FEMALE	334	Alive	T2	N1	M0	Stage IIB	0	334	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AR-A0TV	FEMALE	2288	Alive	T2	N0	M0	Stage IIA	0	2288	Positive	Positive	Equivocal	Negative	3	Negative
+TCGA-AO-A0JC	FEMALE	1547	Alive	T2	N0 (i-)	M0	Stage IIA	0	1547	Positive	Positive	Negative	Not Evaluated	12	Negative
+TCGA-C8-A26V	FEMALE	616	Alive	T3	N2	M0	Stage IIIA	0	616	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-C8-A26Z	FEMALE	470	Alive	T2	N0	M0	Stage IIA	0	470	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-AO-A128	FEMALE	3248	Alive	T2	N0 (i-)	M0	Stage IIA	0	3248	Negative	Negative	Negative	Negative	15	Negative
+TCGA-E2-A154	FEMALE	591	Alive	T1c	N0	M0	Stage I	0	591	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-E9-A22G	FEMALE	1239	Alive	T2	N0	M0	Stage IIA	0	1239	Negative	Negative	Positive	Not Evaluated	6	Negative
+TCGA-AC-A23G	FEMALE	2248	Alive	T1c	N1	MX	Stage IIA	0	2248	Positive	Positive	Positive	Positive	8	Negative
+TCGA-AC-A62Y	FEMALE	530	Alive	T2	N1	MX	Stage IIB	0	530	Positive	Positive	Negative	Not Evaluated	1	Positive
+TCGA-A7-A3IY	FEMALE	345	Alive	T1c	N0	M0	Stage I	0	345	Positive	Positive	Negative	Not Evaluated	1	Close
+TCGA-EW-A2FV	FEMALE	788	Alive	T3	N3a	MX	Stage IIIC	0	788	Positive	Positive	Negative	Not Evaluated	32	Negative
+TCGA-A2-A0T4	FEMALE	624	Alive	T2	N0 (i-)	M0	Stage IIA	0	624	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-D8-A147	FEMALE	584	Alive	T2	N0	M0		0	584	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-B6-A0RS	FEMALE	3063	Dead	T2	N0 (i-)	M0	Stage IIA	1	2041	Negative	Negative	Not Evaluated	Not Available	15	Negative
+TCGA-BH-A1F0	FEMALE	785	Dead	T1a	N1c	M0	Stage IIA	0	785	Negative	Indeterminate	Negative	Not Evaluated	9	Not Available
+TCGA-D8-A1X6	FEMALE	541	Alive	T3	N2a	MX	Stage IIIA	0	541	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-BH-A1F2	FEMALE	959	Dead	T4b	N1b	M0	Stage IIIB	0	959	Positive	Positive	Positive	Not Available	19	Not Available
+TCGA-E2-A106	FEMALE	2541	Alive	T1c	N1mi	M0	Stage IB	0	2541	Positive	Positive	Equivocal	Negative	16	Close
+TCGA-D8-A1JI	FEMALE	577	Alive	T1c	N1a	MX	Stage IIA	0	577	Positive	Positive	Negative	Not Evaluated	22	Negative
+TCGA-B6-A0I5	FEMALE	8556	Alive	T2	N1b	M0	Stage IIB	0	8556	Positive	Positive	Not Evaluated	Not Available	13	Negative
+TCGA-A2-A0ES	FEMALE	2190	Alive	T2	N0 (i-)	M0	Stage IIA	0	2190	Positive	Positive	Negative	Negative	1	Negative
+TCGA-E9-A1N8	FEMALE	1039	Alive	T2	N0	M0	Stage IIA	0	1039	Negative	Not Evaluated	Negative	Not Evaluated	8	Negative
+TCGA-A7-A4SA	FEMALE	454	Alive	T2	N1a	M0	Stage IIB	0	454	Positive	Negative	Negative	Not Evaluated	10	Negative
+TCGA-E2-A570	FEMALE	931	Alive	T1c	N1mi	M0	Stage IB	0	931	Positive	Positive	Equivocal	Negative	7	Negative
+TCGA-BH-A0C3	FEMALE	2709	Alive	T1c	N0	M0	Stage I	1	2674	Positive	Negative	Negative	Not Available	4	Negative
+TCGA-D8-A1XW	FEMALE	1309	Alive	T2	N0	M0	Stage IIA	0	1309	Negative	Positive	Negative	Not Evaluated	1	Negative
+TCGA-A8-A09C	FEMALE	31	Alive	T2	N0	MX	Stage X	0	31	Positive	Positive	Negative	Negative	Not Available	Not Available
+TCGA-BH-A1EW	FEMALE	1694	Dead	T2	N1b	M0	Stage IIA	0	1694	Negative	Negative	Negative	Not Evaluated	16	Not Available
+TCGA-A2-A0T0	FEMALE	533	Alive	T2	N1	M0	Stage IIB	0	533	Negative	Negative	Negative	Not Evaluated	14	Negative
+TCGA-A2-A3XV	FEMALE	996	Alive	T2	N0	M0	Stage IIA	0	996	Positive	Negative	Equivocal	Positive	4	Negative
+TCGA-EW-A1PE	FEMALE	320	Alive	T1c	N1a	M0	Stage IIA	0	320	Positive	Positive	Negative	Not Evaluated	23	Negative
+TCGA-AN-A0FY	FEMALE	10	Alive	T1c	N0	M0	Stage IA	0	10	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-AC-A3TN	FEMALE	456	Alive	T3	N0	MX	Stage IIB	0	456	Positive	Positive	Positive	Indeterminate	2	Negative
+TCGA-BH-A0C7	FEMALE	2767	Alive	T2	N1mi	M0	Stage IIB	0	2767	Positive	Negative	Not Available	Positive	18	Negative
+TCGA-B6-A0IC	FEMALE	0	Dead	T2	NX	MX	Stage X	0	0	Positive	Positive	Not Evaluated	Not Available	Not Available	Negative
+TCGA-EW-A6S9	FEMALE	463	Alive	T1c	N1	M0	Stage IIA	0	463	Positive	Positive	Positive	Not Evaluated	3	Not Available
+TCGA-AR-A1AT	FEMALE	1272	Dead	T2	N0	M0	Stage IIA	0	1272	Positive	Positive	Positive	Not Evaluated	3	Negative
+TCGA-BH-A0B6	FEMALE	2483	Alive	T1c	N0	M0	Stage I	0	2483	Positive	Positive	Positive	Not Available	4	Negative
+TCGA-BH-A0BT	FEMALE	2365	Alive	T1c	N1mi	M0	Stage IIA	0	2365	Positive	Positive	Negative	Not Available	Not Available	Negative
+TCGA-BH-A1ET	FEMALE	2520	Dead	T1	N0	M0	Stage I	0	2520	Positive	Positive	Negative	Not Evaluated	19	Not Available
+TCGA-E9-A1RG	FEMALE	647	Alive	T1c	N2	M0	Stage IIIA	0	647	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-XX-A89A	FEMALE	488	Alive	T3	N0	MX	Stage IIB	0	488	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-GM-A2DN	FEMALE	3091	Alive	T2	N0 (i-)	M0	Stage IIA	0	3091	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-A8-A06P	FEMALE	396	Alive	T1c	N2a	M0	Stage IIIA	0	396	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A6R8	FEMALE	293	Alive	T2	N0	M0	Stage IIA	0	293	Positive	Positive	Not Evaluated	Negative	4	Negative
+TCGA-5T-A9QA	FEMALE	303	Alive	T2	NX	MX	Stage IIA	0	303	Positive	Negative	Equivocal	Negative	Not Available	Unknown
+TCGA-A2-A0YT	FEMALE	723	Dead	T4b	N2a	M0	Stage IIIB	0	723	Positive	Negative	Not Evaluated	Negative	5	Negative
+TCGA-E9-A22H	FEMALE	1232	Alive	T2	N1	M0	Stage IIB	0	1232	Positive	Positive	Positive	Not Evaluated	8	Negative
+TCGA-BH-A8G0	FEMALE	662	Alive	T2	N1a	M0	Stage IIB	0	662	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A8-A09Q	FEMALE	761	Alive	T4b	N2a	M0	Stage IIIB	1		Positive	Positive	Negative	Negative	Not Available	Positive
+TCGA-E2-A15J	FEMALE	1640	Alive	T1c	N0	M0	Stage I	0	1640	Positive	Positive	Equivocal	Negative	12	Negative
+TCGA-B6-A1KF	FEMALE	3088	Alive	T2	N1	M0	Stage IIB	0	3088	Negative	Negative	Equivocal	Not Evaluated	14	Negative
+TCGA-EW-A1J2	FEMALE	403	Alive	T1c	N1mi	MX		0	403	Positive	Positive	Negative	Not Evaluated	21	Negative
+TCGA-A8-A09X	FEMALE	426	Dead	T2	N3a	M0	Stage IIIC	0	426	Negative	Negative	Negative	Negative	Not Available	Not Available
+TCGA-E2-A1L6	FEMALE	1648	Alive	T1c	N1mi	M0	Stage IIA	0	1648	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-A8-A08R	FEMALE	30	Alive	T2	N1a	M0	Stage IIB	0	30	Negative	Negative	Negative	Negative	Not Available	Negative
+TCGA-A7-A0CD	FEMALE	1165	Alive	T1	N0	M0	Stage I	0	1165	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-A8-A07Z	FEMALE	1371	Alive	T2	N0	M0	Stage IIA	0	1371	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-C8-A12K	FEMALE	0	Alive	T2	N1	M0	Stage IIB	0	0	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	7	Negative
+TCGA-E2-A15C	FEMALE	694	Alive	T1c	N0	M0	Stage I	0	694	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-A7-A6VV	FEMALE	313	Alive	T2	N0	M0	Stage IIA	0	313	Negative	Negative	Negative	Not Evaluated	5	Negative
+TCGA-BH-A0GY	FEMALE	923	Alive	T2	N1	M0	Stage IIA	0	923	Positive	Positive	Negative	Not Evaluated	26	Negative
+TCGA-A2-A04U	FEMALE	2654	Alive	T2	N0 (i+)	M0	Stage IIA	0	2654	Negative	Negative	Negative	Positive	3	Negative
+TCGA-E2-A1IH	FEMALE	1026	Alive	T1c	N0	M0	Stage I	0	1026	Positive	Positive	Equivocal	Not Evaluated	2	Negative
+TCGA-A7-A13D	FEMALE	965	Alive	T2	N0 (i-)	M0	Stage IIA	0	965	Negative	Positive	Equivocal	Negative	4	Close
+TCGA-A2-A3XZ	FEMALE	1532	Alive	T1c	N0	M0	Stage I	0	1532	Negative	Negative	Positive	Not Evaluated	3	Negative
+TCGA-A7-A4SB	FEMALE	418	Alive	T3	N1mi	M0	Stage IIIA	0	418	Positive	Positive	Negative	Not Evaluated	2	Positive
+TCGA-A1-A0SB	FEMALE	259	Alive	T1c	N0	M0	Stage I	0	259	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-E2-A1B6	FEMALE	867	Alive	T2	N0	M0	Stage IIA	0	867	Negative	Negative	Equivocal	Negative	5	Negative
+TCGA-A1-A0SK	FEMALE	967	Dead	T2	N0 (i-)	M0	Stage IIA	1		Negative	Negative	Negative	Not Evaluated	4	Positive
+TCGA-D8-A27H	FEMALE	397	Alive	T2	N0	M0	Stage IIA	0	397	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-D8-A1JG	FEMALE	1612	Alive	T2	N0	M0	Stage IIA	0	1612	Negative	Negative	Equivocal	Negative	1	Negative
+TCGA-B6-A0IJ	FEMALE	7106	Alive	T3	N0 (i-)	M0	Stage IIB	0	7106	Positive	Positive	Not Evaluated	Not Available	27	Negative
+TCGA-D8-A146	FEMALE	643	Alive	T2	N0	MX	Stage IIA	0	643	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-A8-A07J	FEMALE	365	Alive	T2	N1a	M0	Stage IIB	0	365	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AO-A03M	FEMALE	1866	Alive	T1c	N0 (i-)	M0	Stage I	0	1866	Positive	Positive	Negative	Negative	2	Negative
+TCGA-AR-A2LK	FEMALE	1649	Dead	T3	N2	M0	Stage III	1	1304	Positive	Positive	Equivocal	Negative	18	Positive
+TCGA-A2-A1G0	FEMALE	616	Alive	T2	N1a	M0	Stage IIB	0	616	Positive	Positive	Equivocal	Negative	19	Negative
+TCGA-AO-A03O	FEMALE	2483	Dead	T2	N0 (i-)	M0	Stage IIA	0	2483	Positive	Positive	Negative	Negative	17	Negative
+TCGA-D8-A1JF	FEMALE	366	Alive	T1c	N2a	M0	Stage IIIA	0	366	Negative	Negative	Negative	Not Evaluated	25	Negative
+TCGA-A7-A0DA	FEMALE	1085	Alive	T2	N0 (i-)	M0	Stage IIA	0	1085	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-D8-A1JN	FEMALE	620	Alive	T3	N3a	MX	Stage IIIC	0	620	Positive	Positive	Indeterminate	Negative	13	Negative
+TCGA-D8-A1JE	FEMALE	575	Alive	T1c	N1a	M0	Stage IIA	0	575	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-AN-A03X	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Positive	Positive	Positive	Not Evaluated	19	Negative
+TCGA-AR-A1AK	FEMALE	3159	Alive	T1	N0	M0	Stage I	0	3159	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-E2-A107	FEMALE	1047	Alive	T3	N2a	M0	Stage IIIA	0	1047	Positive	Negative	Equivocal	Negative	27	Negative
+TCGA-AC-A7VC	FEMALE	1	Alive	T3	N0	MX	Stage IIB	0	1	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-BH-A0W3	FEMALE	728	Alive	T1c	N1a	M0	Stage IIA	0	728	Positive	Positive	Equivocal	Negative	4	Not Available
+TCGA-E2-A56Z	FEMALE	252	Alive	T2	N1a	M0	Stage IIB	0	252	Positive	Positive	Equivocal	Negative	16	Negative
+TCGA-E9-A1N5	FEMALE	1120	Alive	T2	N1	M0	Stage IIB	0	1120	Positive	Positive	Positive	Not Evaluated	11	Negative
+TCGA-A8-A08J	FEMALE	1127	Dead	T4b	N3	M1	Stage IV	1		Positive	Negative	Negative	Negative	Not Available	Positive
+TCGA-BH-A0DK	FEMALE	423	Alive	T2	N0 (i-)	M0	Stage IIA	0	423	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A2L8	FEMALE	612	Alive	T2	N0 (i-)	M0	Stage IIA	0	612	Positive	Positive	Negative	Negative	1	Negative
+TCGA-A2-A0YK	FEMALE	588	Alive	T2	N0 (i-)	M0	Stage IIA	0	588	Positive	Negative	Negative	Not Evaluated	3	Close
+TCGA-D8-A73X	FEMALE	767	Alive	T2	N0	M0	Stage IIA	0	767	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A2-A4RW	FEMALE	222	Alive	T2	N3a	M0	Stage IIIC	0	222	Positive	Positive	Negative	Not Evaluated	27	Negative
+TCGA-AR-A2LH	FEMALE	616	Dead	T3	N3	M0	Stage III	1	434	Negative	Negative	Equivocal	Negative	39	Negative
+TCGA-AN-A0FZ	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Positive	Negative	Positive	Not Evaluated	14	Negative
+TCGA-AC-A5XS	FEMALE	588	Alive	T2	N0	MX	Stage IIA	0	588	Positive	Positive	Negative	Not Evaluated	8	Negative
+TCGA-E9-A229	FEMALE	1148	Alive	T1c	N0	M0	Stage IA	0	1148	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	14	Negative
+TCGA-BH-A0B9	FEMALE	1572	Alive	T1c	N0 (i-)	M0	Stage IA	0	1572	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-LL-A8F5	FEMALE	596	Alive	T2	N0 (i-)	MX	Stage IIA	0	596	Positive	Negative	Negative	Not Evaluated	3	Negative
+TCGA-E2-A1L7	FEMALE	1836	Alive	T2	N2	M0	Stage IIIA	1	1619	Negative	Negative	Negative	Not Evaluated	20	Negative
+TCGA-HN-A2NL	FEMALE	79	Alive	T2	N0	M0	Stage IIA	0	79	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-A8-A096	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AR-A2LR	FEMALE	1742	Alive	T1	N0	M0	Stage I	0	1742	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-A8-A08G	FEMALE	607	Alive	T2	N0	M0	Stage IIA	0	607	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AO-A1KO	FEMALE	622	Alive	T3	N0 (i+)	M0	Stage IIB	0	622	Positive	Positive	Negative	Not Evaluated	19	Negative
+TCGA-A2-A0CK	FEMALE	4159	Alive	T3	N2a	M0	Stage IIIA	1	1364	Positive	Positive	Negative	Negative	20	Positive
+TCGA-A2-A04W	FEMALE	3102	Alive	T2	N1mi	M0	Stage IIB	0	3102	Negative	Negative	Positive	Positive	19	Negative
+TCGA-A2-A1G6	FEMALE	501	Alive	T2	N2a	M0	Stage IIIA	0	501	Negative	Negative	Negative	Not Evaluated	9	Negative
+TCGA-EW-A1PF	FEMALE	439	Alive	T1c	N0	M0	Stage IA	0	439	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-AO-A12E	FEMALE	2142	Alive	T3	N0 (i+)	M0	Stage IIB	0	2142	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-C8-A12T	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Positive	Positive	Not Evaluated	5	Negative
+TCGA-B6-A0X0	FEMALE	3945	Dead	T1c	N0 (i-)	M0	Stage I	0	3945	Positive	Positive	Not Evaluated	Not Evaluated	31	Negative
+TCGA-E2-A10C	FEMALE	1220	Alive	T2	N1a	M0	Stage IIB	0	1220	Positive	Positive	Negative	Not Evaluated	13	Negative
+TCGA-OL-A5RY	FEMALE	752	Alive	T1c	N1	MX	Stage IIA	0	752	Positive	Negative	Not Evaluated	Positive	25	Positive
+TCGA-BH-A18H	FEMALE	652	Alive	T1b	N0	M0	Stage IA	0	652	Positive	Positive	Positive	Equivocal	2	Negative
+TCGA-C8-A130	FEMALE	370	Alive	T3	N2	M0	Stage IIIA	0	370	Positive	Positive	Equivocal	Not Evaluated	8	Negative
+TCGA-A2-A4S2	FEMALE	643	Alive	T3	N2	M0	Stage IIIA	0	643	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-AR-A0TX	FEMALE	1972	Alive	T1	N1	M0	Stage IIA	0	1972	Positive	Positive	Positive	Not Evaluated	25	Negative
+TCGA-A7-A6VY	FEMALE	266	Alive	T2	N1	M0	Stage IIB	0	266	Negative	Negative	Negative	Not Evaluated	14	Negative
+TCGA-E2-A1B5	FEMALE	984	Alive	T2	N0	M0	Stage IIA	0	984	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-B6-A0IA	FEMALE	8391	Alive	T2	N0 (i-)	M0	Stage IIA	0	8391	Positive	Positive	Not Evaluated	Not Available	15	Negative
+TCGA-C8-A27A	FEMALE	747	Alive	T2	N1	M0	Stage IIB	0	747	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-E2-A1L8	FEMALE	2240	Alive	T2	N1a	M0	Stage IIB	0	2240	Positive	Positive	Equivocal	Negative	13	Negative
+TCGA-BH-A0BW	FEMALE	2371	Alive	T1c	N0	M0	Stage I	0	2371	Negative	Negative	Not Available	Negative	8	Negative
+TCGA-AC-A2FE	FEMALE	2636	Dead	T3	N3a	MX	Stage IIIC	1	766	Positive	Positive	Not Evaluated	Not Evaluated	18	Negative
+TCGA-BH-A0B1	FEMALE	1148	Alive	T2	N1a	M0	Stage IIB	0	1148	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-BH-A1EO	FEMALE	2798	Dead	T1c	N1	M0	Stage IIA	0	2798	Positive	Positive	Negative	Not Available	15	Not Available
+TCGA-A8-A099	FEMALE	304	Alive	T4b	N3a	MX	Stage X	0	304	Positive	Positive	Positive	Positive	Not Available	Not Available
+TCGA-AC-A62V	MALE	348	Dead	T2	N1a	M1	Stage IV	1		Positive	Positive	Not Evaluated	Not Evaluated	17	Negative
+TCGA-A8-A06O	FEMALE	396	Alive	T1c	N0	M0	Stage I	0	396	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AC-A3OD	FEMALE	451	Alive	T2	N1mi	MX	Stage IIB	0	451	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-E2-A109	FEMALE	1417	Alive	T2	N0 (i-)	M0	Stage IIA	0	1417	Positive	Negative	Equivocal	Negative	6	Negative
+TCGA-AC-A8OR	FEMALE	40	Alive	T1c	N0 (i-)	MX	Stage IA	0	40	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-BH-A0W5	FEMALE	1288	Alive	T1c	N1a	M0	Stage IIA	0	1288	Positive	Positive	Equivocal	Equivocal	11	Negative
+TCGA-E2-A15K	FEMALE	275	Alive	T2	N1a	M0	Stage IIB	0	275	Positive	Positive	Equivocal	Negative	17	Negative
+TCGA-EW-A1J3	FEMALE	504	Alive	T1c	N0	M0	Stage IA	0	504	Positive	Positive	Positive	Not Evaluated	3	Negative
+TCGA-D8-A27M	FEMALE	410	Alive	T1c	N0	M0	Stage IA	0	410	Negative	Negative	Negative	Not Evaluated	1	Negative
+TCGA-A8-A0A1	FEMALE	365	Alive	T2	N0	M0	Stage IIA	0	365	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A8FY	FEMALE	295	Dead	T1c	N0 (i+)	M0	Stage IA	0	295	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-AO-A12G	FEMALE	1639	Alive	T2	N0 (i+)	M0	Stage IIA	0	1639	Positive	Positive	Positive	Negative	4	Negative
+TCGA-A7-A26E	FEMALE	954	Alive	T3	N1a	MX	Stage IIIA	0	954	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-E2-A15R	FEMALE	1732	Alive	T1c	N1a	M0	Stage IIA	0	1732	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-D8-A1X7	FEMALE	509	Alive	T2	N0	MX	Stage IIA	0	509	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A0BC	FEMALE	974	Alive	T2	N3	M0	Stage IIIC	0	974	Positive	Positive	Negative	Not Evaluated	18	Negative
+TCGA-AN-A0FD	FEMALE	196	Alive	T2	N0	M0	Stage IIA	0	196	Positive	Positive	Positive	Positive	14	Negative
+TCGA-E9-A22D	FEMALE	1248	Alive	T2	N0	M0	Stage IIA	0	1248	Positive	Positive	Positive	Not Evaluated	10	Negative
+TCGA-AN-A0AS	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Positive	Negative	Negative	Not Evaluated	9	Negative
+TCGA-BH-A0GZ	FEMALE	328	Alive	T1c	N1a	M0	Stage IIA	0	328	Positive	Positive	Equivocal	Negative	14	Negative
+TCGA-D8-A1Y0	FEMALE	472	Alive	T1c	N2a	MX	Stage IIIA	0	472	Positive	Positive	Negative	Not Evaluated	15	Not Available
+TCGA-A2-A259	FEMALE	1596	Alive	T1c	N0 (i-)	M0	Stage I	0	1596	Positive	Positive	Negative	Negative	2	Close
+TCGA-PL-A8LV	FEMALE			T4	N0	M0	Stage IIIB	0		Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	Not Available	Not Available
+TCGA-GM-A4E0	FEMALE	2191	Alive	T3	N3a	M0	Stage IIIC	0	2191	Positive	Positive	Not Evaluated	Negative	22	Negative
+TCGA-D8-A1X8	FEMALE	783	Alive	T1c	N2a	M0	Stage IIIA	0	783	Positive	Indeterminate	Negative	Not Evaluated	11	Negative
+TCGA-A7-A3RF	FEMALE	408	Alive	T2	N0	M0	Stage IIA	1	174	Positive	Positive	Negative	Not Evaluated	2	Positive
+TCGA-UU-A93S	FEMALE	116	Dead	T4d	N3b	M1	Stage IV	0	116	Negative	Negative	Positive	Not Evaluated	Not Available	Positive
+TCGA-OL-A66O	FEMALE	528	Alive	T2	N1a	MX	Stage IIB	0	528	Positive	Positive	Not Evaluated	Negative	17	Negative
+TCGA-BH-A0BV	FEMALE	1519	Alive	T2	N1a	M0	Stage IIB	0	1519	Positive	Positive	Negative	Not Evaluated	25	Negative
+TCGA-AR-A0TZ	FEMALE	3262	Dead	T2	N2	M1		1	1313	Positive	Positive	Equivocal	Negative	30	Negative
+TCGA-C8-A1HN	FEMALE	394	Alive	T2	N0	M0	Stage IIA	0	394	Positive	Positive	Equivocal	Not Evaluated	Not Available	Negative
+TCGA-A2-A0YJ	FEMALE	566	Alive	T3	N2a	M0	Stage IIIA	1	559	Positive	Negative	Negative	Not Evaluated	18	Negative
+TCGA-A8-A07W	FEMALE	304	Alive	T2	NX	M1	Stage IV	1		Positive	Positive	Negative	Negative	Not Available	Positive
+TCGA-A1-A0SG	FEMALE	434	Alive	T2	N1a	M0	Stage IIB	0	434	Positive	Positive	Negative	Not Evaluated	11	Negative
+TCGA-AN-A0FW	FEMALE	11	Alive	T2	N2	M0	Stage IIIA	0	11	Positive	Indeterminate	Negative	Not Evaluated	14	Negative
+TCGA-A8-A091	FEMALE	1004	Alive	T2	N0	M0	Stage IIA	1	243	Positive	Negative	Negative	Negative	Not Available	Negative
+TCGA-A2-A25C	FEMALE	523	Alive	T2	N1a	M0	Stage IIB	0	523	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-AR-A256	FEMALE	2854	Dead	T2	N0	M0	Stage IIA	1	1640	Negative	Negative	Negative	Not Evaluated	5	Negative
+TCGA-AC-A23E	FEMALE	698	Alive	T2	N1	MX	Stage IIB	0	698	Positive	Positive	Not Evaluated	Not Evaluated	2	Negative
+TCGA-OL-A5RW	FEMALE	1106	Alive	T1c	N1	MX	Stage IIA	0	1106	Negative	Negative	Not Evaluated	Negative	4	Negative
+TCGA-B6-A0RV	FEMALE	5156	Alive	T3	N2	M0	Stage IIIA	0	5156	Positive	Positive	Not Evaluated	Not Available	10	Negative
+TCGA-B6-A0IN	FEMALE	2573	Dead	T1c	NX	MX	Stage X	1	1412	Positive	Negative	Not Evaluated	Not Available	Not Available	Positive
+TCGA-AN-A0G0	FEMALE	16	Alive	T2	N0	M0	Stage IIA	0	16	Negative	Negative	Negative	Not Evaluated	23	Negative
+TCGA-C8-A273	FEMALE	513	Alive	T2	N1	M0	Stage IIB	0	513	Positive	Positive	Negative	Not Evaluated	7	Negative
+TCGA-AR-A0U2	FEMALE	2551	Dead	T2	N2	M0	Stage IIIA	1	1609	Positive	Positive	Negative	Not Evaluated	16	Negative
+TCGA-EW-A1J5	FEMALE	477	Alive	T3	N0 (i-)	M0	Stage IIB	0	477	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-AC-A3EH	FEMALE	197	Dead	T3	N3	M0	Stage IIIC	0	197	Positive	Negative	Negative	Negative	12	Negative
+TCGA-OL-A66L	FEMALE	1301	Alive	T1c	N0	MX	Stage IA	0	1301	Positive	Positive	Not Evaluated	Negative	2	Negative
+TCGA-E2-A1IF	FEMALE	1138	Alive	T1c	N0	M0	Stage I	0	1138	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-E2-A1B1	FEMALE	2653	Alive	T2	N1	M0	Stage IIB	0	2653	Positive	Positive	Equivocal	Positive	6	Negative
+TCGA-BH-A0HI	FEMALE	620	Alive	T1c	N0 (i-)	M0	Stage IA	0	620	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-BH-A18P	FEMALE	921	Dead	T1	N0	M0	Stage I	0	921	Positive	Negative	Positive	Positive	2	Negative
+TCGA-D8-A1Y2	FEMALE	433	Alive	T2	N0	MX	Stage IIA	0	433	Positive	Positive	Indeterminate	Negative	7	Negative
+TCGA-E9-A1RC	FEMALE	1224	Alive	T4b	N3	M0	Stage IIIC	0	1224	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-D8-A1XT	FEMALE	506	Alive	T1c	N1a	M0	Stage IIA	0	506	Negative	Negative	Positive	Not Evaluated	10	Negative
+TCGA-C8-A8HP	FEMALE	396	Alive	T2	N2	M0	Stage IIIA	0	396	Negative	Negative	Positive	Not Evaluated	9	Negative
+TCGA-AR-A255	FEMALE	2161	Alive	T1	N0	M0	Stage I	0	2161	Positive	Positive	Positive	Not Evaluated	2	Negative
+TCGA-A2-A0T6	FEMALE	575	Alive	T3	N0 (i-)	M0	Stage IIB	0	575	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A1-A0SP	FEMALE	584	Alive	T2	N0 (i-)	M0	Stage IIA	0	584	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-A8-A09R	FEMALE	273	Alive	T2	N1	M0	Stage IIB	0	273	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-AO-A03N	FEMALE	2031	Alive	T2	N1a	M0	Stage IIB	1	1645	Positive	Positive	Negative	Not Evaluated	19	Negative
+TCGA-D8-A27I	FEMALE	439	Alive	T1c	N2a	M0	Stage IIIA	0	439	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-A7-A426	FEMALE	364	Alive	T3	N3a	MX	Stage IIIC	0	364	Positive	Positive	Negative	Not Evaluated	20	Negative
+TCGA-AN-A0AM	FEMALE	5	Alive	T2	N0	M0	Stage IIA	0	5	Positive	Negative	Negative	Not Evaluated	20	Negative
+TCGA-D8-A1Y3	FEMALE	430	Alive	T2	N2a	MX	Stage IIIA	0	430	Positive	Positive	Indeterminate	Negative	8	Negative
+TCGA-E2-A159	FEMALE	762	Alive	T2	N0	M0	Stage IIA	0	762	Negative	Negative	Not Evaluated	Negative	4	Negative
+TCGA-A8-A08P	FEMALE	943	Alive	T2	N2a	M0	Stage IIIA	0	943	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-BH-A1FB	FEMALE	3669	Dead	T2	N1b	M0	Stage IIB	0	3669	Positive	Positive	Negative	Not Available	15	Not Available
+TCGA-AC-A3YI	FEMALE	707	Alive	T1c	N3a	MX	Stage IIIC	0	707	Positive	Positive	Positive	Not Evaluated	13	Negative
+TCGA-AC-A8OP	FEMALE	614	Alive	T1c	N0 (i-)	MX	Stage IA	0	614	Positive	Positive	Indeterminate	Not Evaluated	6	Negative
+TCGA-A2-A25F	FEMALE	322	Alive	T2	N0 (i-)	M0	Stage IIA	0	322	Negative	Positive	Negative	Not Evaluated	2	Negative
+TCGA-C8-A1HI	FEMALE	343	Alive	T2	N2	M0	Stage IIIA	0	343	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-AC-A3YJ	FEMALE	754	Alive	T2	N0 (i-)	MX	Stage IIA	0	754	Positive	Positive	Not Available	Not Available	1	Negative
+TCGA-E2-A1IN	FEMALE	675	Alive	T1c	N0	M0	Stage I	0	675	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-E2-A15A	FEMALE	710	Alive	T2	N3a	M0	Stage IIIC	0	710	Positive	Positive	Negative	Not Evaluated	19	Negative
+TCGA-AR-A0TS	FEMALE	2558	Alive	T2	N1	M0	Stage IIB	0	2558	Negative	Negative	Negative	Not Evaluated	16	Negative
+TCGA-BH-A0DE	FEMALE	2372	Alive	T2	N0	M0	Stage IIA	0	2372	Positive	Positive	Negative	Not Available	2	Negative
+TCGA-AQ-A54O	MALE	1001	Alive	T2	N0	M0	Stage IIA	0	1001	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-AQ-A04H	FEMALE	754	Alive	T2	N2a	MX	Stage IIIA	0	754	Positive	Positive	Indeterminate	Positive	15	Negative
+TCGA-EW-A1PC	FEMALE	187	Alive	T3	N0 (i-)	MX	Stage IIB	0	187	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-E2-A14W	MALE	974	Alive	T2	N0	M0	Stage IIA	0	974	Positive	Positive	Not Evaluated	Positive	5	Negative
+TCGA-3C-AALI	FEMALE	4005	Alive	T2	N1a	M0	Stage IIB	0	4005	Positive	Positive	Positive	Not Evaluated	15	Negative
+TCGA-LD-A74U	FEMALE	402	Alive	T3	N3a	M0	Stage IIIC	1		Positive	Negative	Negative	Not Evaluated	12	Negative
+TCGA-GM-A3XL	FEMALE	2108	Alive	T2	N0 (i-)	M0	Stage IIA	0	2108	Negative	Negative	Not Evaluated	Negative	4	Negative
+TCGA-BH-A0E2	FEMALE	435	Alive	T2	N2a	M0	Stage IIIA	0	435	Positive	Positive	Negative	Not Evaluated	26	Negative
+TCGA-AN-A0XT	FEMALE	10	Alive	T2	N2	M0	Stage IIIA	0	10	Positive	Negative	Negative	Not Evaluated	17	Negative
+TCGA-B6-A0X5	FEMALE	2097	Dead	T2	N1b	M0	Stage IIB	1	1343	Positive	Positive	Not Evaluated	Not Evaluated	14	Negative
+TCGA-E9-A1R0	FEMALE	860	Alive	T1c	N1	M0	Stage IIA	0	860	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	12	Not Available
+TCGA-BH-A0DZ	FEMALE	495	Alive	T2	N1a	M0	Stage IIB	0	495	Positive	Positive	Positive	Not Evaluated	5	Negative
+TCGA-D8-A1JT	FEMALE	405	Alive	T2	N0	M0	Stage IIA	0	405	Positive	Positive	Equivocal	Negative	15	Negative
+TCGA-EW-A1IY	FEMALE	258	Alive	T1c	N0	MX	Stage I	0	258	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-AO-A129	FEMALE	3286	Alive	T2	N1a	M0	Stage IIB	0	3286	Negative	Negative	Negative	Negative	21	Negative
+TCGA-B6-A0RQ	FEMALE	4267	Dead	T3	N0 (i-)	M0	Stage IIB	0	4267	Positive	Positive	Not Evaluated	Not Evaluated	14	Not Available
+TCGA-C8-A137	FEMALE	379	Alive	T2	N1	M0	Stage IIB	1	136	Negative	Negative	Positive	Not Evaluated	2	Negative
+TCGA-BH-A0DO	FEMALE	1644	Alive	T1c	N0	M0	Stage I	0	1644	Positive	Positive	Negative	Not Available	2	Negative
+TCGA-A7-A3J1	FEMALE	343	Alive	T1c	N0	MX	Stage IA	0	343	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-EW-A1IX	FEMALE	1208	Alive	T1b	N1a	MX	Stage IIA	0	1208	Positive	Positive	Negative	Not Evaluated	27	Negative
+TCGA-E9-A3HO	FEMALE	1158	Alive	T2	N0 (i-)	M0	Stage IIA	0	1158	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-BH-A0HF	FEMALE	727	Alive	T1c	N0 (i-)	M0	Stage IA	0	727	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A2-A0SW	FEMALE	1365	Dead	T2	N2	M1	Stage IV	0	1365	Positive	Negative	Not Evaluated	Negative	15	Negative
+TCGA-BH-A0HK	FEMALE	178	Alive	T2	N1	M0	Stage IIB	0	178	Positive	Negative	Negative	Not Evaluated	17	Negative
+TCGA-BH-A0BP	FEMALE	2296	Dead	T1c	N0	M0	Stage I	0	2296	Positive	Positive	Negative	Not Available	3	Negative
+TCGA-D8-A1J9	FEMALE	532	Alive	T1c	N0	M0	Stage IA	0	532	Positive	Negative	Positive	Not Evaluated	6	Negative
+TCGA-A8-A06N	FEMALE	0	Alive	T4b	N0	M0	Stage IIIB	0	0	Positive	Negative	Negative	Negative	Not Available	Negative
+TCGA-A7-A0DB	FEMALE	1007	Alive	T2	N0 (i-)	M0	Stage IIA	0	1007	Positive	Positive	Negative	Not Evaluated	4	Close
+TCGA-A8-A08Z	FEMALE	1217	Alive	T4b	N3a	M0		0	1217	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A0BZ	FEMALE	2255	Alive	T3	N1a	M0	Stage IIIA	0	2255	Positive	Positive	Negative	Not Available	23	Negative
+TCGA-BH-A203	FEMALE	1174	Dead	T2	N1b	M0	Stage IIB	0	1174	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	39	Not Available
+TCGA-A7-A13H	FEMALE	899	Alive	T2	N1a	MX	Stage IIB	1	795	Positive	Positive	Equivocal	Negative	12	Negative
+TCGA-BH-A0AU	FEMALE	1914	Alive	T2	N0	M0	Stage IIA	0	1914	Positive	Positive	Positive	Negative	2	Negative
+TCGA-AR-A0U4	FEMALE	3261	Alive	T2	N0	M0	Stage IIA	0	3261	Negative	Negative	Negative	Not Evaluated	10	Negative
+TCGA-AQ-A7U7	FEMALE	584	Dead	T2	N2a	M0	Stage IIIA	0	584	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-E2-A1AZ	FEMALE	2329	Alive	T2	N1a	M0	Stage IIB	0	2329	Negative	Negative	Indeterminate	Negative	3	Negative
+TCGA-A2-A1FX	FEMALE	1847	Alive	T3	N2a	M0	Stage IIIA	0	1847	Positive	Positive	Not Evaluated	Negative	24	Positive
+TCGA-E2-A15E	FEMALE	630	Alive	T1c	N1a	M0	Stage IIA	0	630	Positive	Positive	Not Evaluated	Positive	9	Negative
+TCGA-LD-A9QF	FEMALE	323	Alive	T1c	N0	M0	Stage IA	0	323	Negative	Negative	Positive	Not Evaluated	14	Negative
+TCGA-AN-A04D	FEMALE	52	Alive	T2	N1	M0	Stage IIB	0	52	Negative	Negative	Negative	Not Evaluated	15	Positive
+TCGA-AR-A24Q	FEMALE	3172	Alive	T3	N0	M0	Stage IIB	0	3172	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-EW-A2FS	FEMALE	1604	Alive	T2	N1mi	MX	Stage IIB	0	1604	Positive	Negative	Negative	Not Evaluated	8	Negative
+TCGA-A2-A1FV	FEMALE	714	Alive	T3	N0 (i+)	M0	Stage IIB	0	714	Positive	Positive	Negative	Negative	2	Negative
+TCGA-OL-A5DA	FEMALE	1783	Alive	T2	N0	MX	Stage IIA	0	1783	Positive	Positive	Not Evaluated	Negative	1	Negative
+TCGA-A8-A0AB	FEMALE	518	Alive	T2	N0	M0	Stage IIA	0	518	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-OL-A6VO	FEMALE	858	Alive	T1c	N0	MX	Stage IA	0	858	Negative	Negative	Negative	Negative	7	Negative
+TCGA-A8-A075	FEMALE	518	Alive	T2	N1a	M0	Stage IIB	0	518	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-BH-A1FU	FEMALE	1688	Dead	T1c	N0	M0	Stage IA	0	1688	Negative	Negative	Not Evaluated	Not Evaluated	5	Not Available
+TCGA-D8-A1JP	FEMALE	639	Alive	T1c	N0	M0	Stage IA	0	639	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-D8-A1JA	FEMALE	502	Alive	T4b	NX	M0		1	431	Negative	Negative	Positive	Not Evaluated	Not Available	Negative
+TCGA-AR-A24W	FEMALE	1550	Alive	T2	N1	M0	Stage IIB	0	1550	Positive	Positive	Negative	Not Evaluated	22	Negative
+TCGA-E2-A14X	FEMALE	972	Alive	T2	N2	M0	Stage IIIA	0	972	Negative	Negative	Negative	Not Evaluated	21	Negative
+TCGA-A2-A0EX	FEMALE	752	Alive	T3	N0 (i+)	M0	Stage IIB	0	752	Positive	Positive	Negative	Negative	1	Positive
+TCGA-AC-A5EI	FEMALE	442	Alive	T1c	N1mi	MX	Stage IB	0	442	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-AC-A2QJ	FEMALE	446	Dead	T4b	N0	M0	Stage IIIB	1	237	Negative	Negative	Negative	Not Evaluated	2	Negative
+TCGA-E2-A152	FEMALE	2128	Alive	T1c	N0	M0	Stage I	1	54	Positive	Negative	Positive	Not Evaluated	3	Negative
+TCGA-C8-A12Q	FEMALE	385	Dead	T1	N2	M0	Stage IIIA	1		Negative	Negative	Positive	Not Evaluated	7	Negative
+TCGA-AC-A3QQ	FEMALE	734	Alive	T1c	N0 (i-)	MX	Stage IA	0	734	Positive	Positive	Positive	Not Evaluated	5	Close
+TCGA-EW-A1PD	MALE	424	Alive	T1c	N1a	M0	Stage IIA	0	424	Positive	Positive	Equivocal	Positive	7	Negative
+TCGA-BH-A1FJ	FEMALE	1927	Dead	T3	N1b	M0	Stage IIIA	0	1927	Negative	Positive	Not Evaluated	Not Evaluated	35	Not Available
+TCGA-BH-AB28	FEMALE	287	Alive	T3	N1a	M0	Stage IIIA	0	287	Positive	Positive	Negative	Indeterminate	20	Negative
+TCGA-AO-A126	FEMALE	3307	Alive	T2	N0 (i-)	M0	Stage IIA	1	267	Positive	Positive	Negative	Negative	5	Negative
+TCGA-OL-A5RZ	FEMALE	679	Alive	T1b	N0	MX	Stage IA	0	679	Positive	Negative	Not Evaluated	Positive	3	Negative
+TCGA-EW-A1PG	FEMALE	1051	Alive	T2	N1a	MX	Stage IIB	0	1051	Positive	Positive	Equivocal	Negative	25	Negative
+TCGA-A8-A08H	FEMALE	0	Alive	T2	N0	M0	Stage IIA	0	0	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-A8-A0AD	FEMALE	1157	Alive	T1c	N0	M0	Stage I	0	1157	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-BH-A0DH	FEMALE	1156	Alive	T2	N1a	M0	Stage IIB	0	1156	Positive	Positive	Negative	Not Evaluated	28	Positive
+TCGA-Z7-A8R6	FEMALE	3256	Alive	T1c	N0	M0	Stage I	0	3256	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A2-A0T3	FEMALE	1516	Alive	T1c	N1mi	M0	Stage IB	0	1516	Positive	Positive	Equivocal	Negative	13	Positive
+TCGA-E9-A1RI	FEMALE	1449	Alive	T1c	N2	M0	Stage IIIA	0	1449	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-A8-A09W	FEMALE	30	Alive	T2	N3	M0	Stage IIIB	0	30	Positive	Positive	Negative	Negative	Not Available	Not Available
+TCGA-A2-A4RX	FEMALE	742	Alive	T2	N0	M0	Stage IIA	0	742	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-A7-A0CE	FEMALE	1074	Alive	T2	N0 (i-)	M0	Stage IIA	0	1074	Negative	Negative	Equivocal	Negative	1	Negative
+TCGA-E2-A576	FEMALE	1043	Alive	T1c	N0	MX	Stage IA	0	1043	Positive	Positive	Equivocal	Negative	5	Negative
+TCGA-AO-A0JF	FEMALE	1980	Alive	T1c	N1a	M0	Stage IIA	0	1980	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-E2-A14U	FEMALE	1318	Alive	T1c	N0	M0	Stage I	0	1318	Positive	Positive	Equivocal	Negative	8	Negative
+TCGA-BH-A0BL	FEMALE	2278	Alive	T1c	N0	M0	Stage I	0	2278	Negative	Negative	Negative	Not Available	2	Negative
+TCGA-LL-A740	FEMALE	441	Alive	T1c	N0 (i-)	MX	Stage IA	0	441	Negative	Negative	Equivocal	Negative	1	Negative
+TCGA-BH-A0H9	FEMALE	1247	Alive	T2	N0 (i-)	M0	Stage IIA	0	1247	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-EW-A1J1	FEMALE	575	Alive	T2	N1a	M0	Stage IIB	0	575	Positive	Positive	Negative	Not Evaluated	17	Negative
+TCGA-LL-A440	FEMALE	759	Alive	T1c	N0 (i-)	MX	Stage IA	0	759	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-E9-A1R7	FEMALE	1467	Alive	T2	N0	M0	Stage IIA	0	1467	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AC-A3HN	FEMALE	496	Alive	T2	N1a	MX	Stage IIB	0	496	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-BH-A1EY	FEMALE	538	Dead	T2	N0	M0	Stage IIA	1	396	Positive	Positive	Negative	Not Available	12	Not Available
+TCGA-A8-A08X	FEMALE	1308	Alive	T4d	N3a	M0	Stage IIIC	1	366	Negative	Negative	Positive	Positive	Not Available	Negative
+TCGA-EW-A6SC	FEMALE	952	Alive	T2	N0	M0	Stage IIA	0	952	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-BH-A0HP	FEMALE	414	Alive	T3	N2a	M0	Stage IIIA	0	414	Positive	Negative	Negative	Not Evaluated	17	Negative
+TCGA-AN-A0FV	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Negative	Negative	Positive	Not Evaluated	12	Negative
+TCGA-B6-A0IP	FEMALE	3926	Dead	T1c	N0 (i-)	M0	Stage IA	0	3926	Positive	Positive	Not Evaluated	Not Evaluated	16	Negative
+TCGA-BH-A0HY	FEMALE	1545	Alive	T1c	N0	M0	Stage I	0	1545	Positive	Negative	Positive	Not Available	3	Negative
+TCGA-A2-A3XW	FEMALE	1712	Alive	T2	N1a	M0	Stage IIB	0	1712	Positive	Negative	Negative	Negative	18	Negative
+TCGA-AQ-A54N	FEMALE	78	Alive	T2	N0	M0	Stage IIA	0	78	Negative	Negative	Equivocal	Negative	1	Negative
+TCGA-A2-A4S0	FEMALE	706	Alive	T2	N0	M0	Stage IIA	0	706	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-BH-A209	FEMALE	3959	Dead	T1c	N0	M0	Stage I	0	3959	Positive	Positive	Not Evaluated	Not Evaluated	12	Not Available
+TCGA-BH-A1FM	FEMALE	1388	Dead	T2	N2	M0	Stage IIIA	0	1388	Positive	Negative	Not Evaluated	Not Evaluated	10	Not Available
+TCGA-E9-A5FK	FEMALE	812	Alive	T2	N3	M0	Stage IIIC	0	812	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-A8-A085	MALE	1124	Alive	T2	N1a	M0	Stage IIB	0	1124	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-E9-A228	FEMALE	1285	Alive	T2	N1	M0	Stage IIB	0	1285	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	12	Negative
+TCGA-BH-A0WA	FEMALE	701	Alive	T1c	N0 (i-)	M0	Stage I	0	701	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-A7-A26F	FEMALE	738	Alive	T1	N0	M0	Stage IA	0	738	Negative	Negative	Equivocal	Negative	1	Close
+TCGA-C8-A27B	FEMALE	439	Alive	T3	N0	M0	Stage IIB	0	439	Negative	Negative	Negative	Not Evaluated	Not Available	Negative
+TCGA-E2-A14R	FEMALE	1174	Alive	T2	N0	M0	Stage IIA	1	971	Negative	Negative	Negative	Not Evaluated	8	Negative
+TCGA-A8-A07U	FEMALE	760	Alive	T2	N2a	M0	Stage IIIA	0	760	Negative	Positive	Negative	Negative	Not Available	Negative
+TCGA-B6-A402	FEMALE	2281	Alive	T1c	N0 (i-)	M0	Stage I	1	1516	Negative	Negative	Negative	Not Evaluated	3	Negative
+TCGA-E9-A3QA	FEMALE	918	Alive	T2	N0 (i-)	M0	Stage IIA	0	918	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	14	Negative
+TCGA-AC-A62X	FEMALE	417	Alive	T2	N0	MX	Stage IIA	0	417	Positive	Negative	Not Evaluated	Not Evaluated	10	Negative
+TCGA-E2-A1LB	FEMALE	2306	Alive	T2	N1	M0	Stage IIB	0	2306	Negative	Negative	Positive	Not Evaluated	25	Negative
+TCGA-B6-A0WY	FEMALE	3461	Dead	T3	N1b	M0	Stage IIIA	1	2011	Positive	Negative	Not Evaluated	Not Evaluated	21	Negative
+TCGA-E9-A243	FEMALE	612	Alive	T2	N0 (i-)	M0	Stage IIA	1	305	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-A7-A3J0	FEMALE	313	Alive	T2	N0	M0	Stage IIA	0	313	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-EW-A1P8	FEMALE	239	Dead	T2	N3b	M0	Stage IIIC	1	207	Negative	Negative	Negative	Not Evaluated	15	Negative
+TCGA-HN-A2OB	FEMALE	1900	Dead	T2	N1	M0	Stage IIB	1	1543	Positive	Positive	Negative	Negative	10	Negative
+TCGA-EW-A424	FEMALE	715	Alive	T3	N1	MX	Stage IIIA	0	715	Positive	Positive	Positive	Not Evaluated	1	Negative
+TCGA-BH-A5IZ	FEMALE	567	Alive	T2	N1a		Stage IIB	0	567	Positive	Negative	Negative	Negative	6	Negative
+TCGA-AR-A1AN	FEMALE	2920	Alive	T2	N0	M0	Stage IIA	0	2920	Positive	Positive	Negative	Not Evaluated	5	Negative
+TCGA-E9-A227	FEMALE	975	Alive	T2	N1	M0	Stage IIB	0	975	Positive	Positive	Negative	Not Evaluated	17	Positive
+TCGA-BH-A0DX	FEMALE	2156	Alive	T1b	N0	M0	Stage I	0	2156	Positive	Positive	Negative	Not Available	11	Negative
+TCGA-A8-A09I	FEMALE	1371	Alive	T2	N0	M0	Stage IIA	0	1371	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-A8-A0A4	FEMALE	396	Alive	T2	N0	M0	Stage IIA	0	396	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-S3-A6ZH	FEMALE	641	Alive	T3	N3a	MX	Stage IIIC	0	641	Positive	Positive	Equivocal	Negative	21	Negative
+TCGA-AO-A0J6	FEMALE	1140	Alive	T2	N0 (i-)	M0	Stage IIA	0	1140	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-AR-A0TW	FEMALE	3009	Alive	T3	N1	M0	Stage IIIA	1	739	Positive	Positive	Equivocal	Negative	27	Negative
+TCGA-A8-A084	FEMALE	458	Alive	T2	N1a	M0	Stage IIB	1		Positive	Negative	Negative	Negative	Not Available	Positive
+TCGA-C8-A8HR	FEMALE	408	Alive	T3	N2	M0	Stage IIIA	0	408	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	8	Negative
+TCGA-D8-A27P	FEMALE	49	Alive	T1c	N0	M0	Stage IA	0	49	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-AR-A24U	FEMALE	3128	Alive	T1	N1	M0	Stage IIA	0	3128	Negative	Negative	Positive	Not Evaluated	25	Positive
+TCGA-EW-A2FR	FEMALE	1673	Alive	T1b	N3a	MX	Stage IIIC	0	1673	Negative	Negative	Equivocal	Positive	21	Negative
+TCGA-A2-A4RY	FEMALE	648	Alive	T3	N3a	M0	Stage IIIC	0	648	Positive	Positive	Negative	Not Evaluated	30	Negative
+TCGA-E2-A15O	FEMALE	289	Alive	T1c	NX	M0	Stage I	1	289	Positive	Positive	Equivocal	Negative	Not Available	Negative
+TCGA-A7-A13G	FEMALE	718	Alive	T2	N0	MX	Stage IIA	1	586	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-E9-A248	FEMALE	59	Alive	T2	N0 (i-)	M0	Stage IIA	0	59	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-E2-A1BC	FEMALE	501	Alive	T1c	N0	M0	Stage IA	0	501	Positive	Positive	Negative	Not Evaluated	4	Positive
+TCGA-AR-A0TU	FEMALE	709	Alive	T2	N0	M0	Stage IIA	0	709	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-BH-A18I	FEMALE	1093	Alive	T1c	N1a		Stage IIA	0	1093	Positive	Positive	Positive	Not Available	3	Positive
+TCGA-B6-A1KC	FEMALE	1326	Alive	T2	N1	M0	Stage IIB	0	1326	Positive	Negative	Negative	Not Evaluated	2	Negative
+TCGA-BH-A0B0	FEMALE	2477	Alive	T1c	N0	M0	Stage I	0	2477	Positive	Positive	Negative	Not Available	2	Negative
+TCGA-A8-A097	FEMALE	365	Alive	T2	N1	M0	Stage IIB	0	365	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AO-A12A	FEMALE	3112	Alive	T2	N0 (i+)	M0	Stage IIA	0	3112	Positive	Positive	Negative	Negative	27	Close
+TCGA-A8-A07B	FEMALE	1308	Alive	T2	N0	M0	Stage IIA	0	1308	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-AC-A2B8	FEMALE	677	Alive	T3	N0 (i-)	M0	Stage IIB	1	654	Positive	Positive	Negative	Negative	1	Negative
+TCGA-A8-A086	FEMALE	396	Alive	T1c	N1a	M0	Stage IIA	0	396	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A2-A0YG	FEMALE	666	Alive	T2	N3a	M0	Stage IIIC	0	666	Positive	Positive	Positive	Not Evaluated	18	Negative
+TCGA-A2-A0CR	FEMALE	3283	Alive	T3	N0	M0	Stage IIB	0	3283	Positive	Positive	Negative	Negative	16	Close
+TCGA-A8-A09B	FEMALE	365	Alive	T4b	N1a	M0	Stage IIIB	0	365	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A2-A0CQ	FEMALE	2695	Alive	T1	N0 (i-)	M0	Stage IA	0	2695	Positive	Positive	Equivocal	Negative	1	Positive
+TCGA-E9-A1NE	FEMALE	1088	Alive	T2	N1	M0	Stage IIB	0	1088	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-B6-A0RL	FEMALE	2469	Dead	T2	N0 (i-)	M0	Stage IIA	0	2469	Positive	Positive	Not Evaluated	Not Available	16	Negative
+TCGA-BH-A1FN	FEMALE	2192	Dead	T2	N0	M0	Stage IIA	0	2192	Positive	Positive	Not Evaluated	Not Evaluated	29	Not Available
+TCGA-C8-A1HO	FEMALE	375	Alive	T3	N3	M0	Stage IIIC	0	375	Positive	Positive	Negative	Not Evaluated	Not Available	Negative
+TCGA-E9-A1R4	FEMALE	186	Alive	T1c	N0	M0	Stage IA	0	186	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-GM-A2DL	FEMALE	3519	Alive	T1c	N0 (i-)	M0	Stage I	0	3519	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-A8-A082	FEMALE	549	Alive	T2	N1a	M0	Stage IIB	0	549	Positive	Positive	Negative	Negative	Not Available	Negative
+TCGA-A2-A04R	FEMALE	3709	Alive	T1	N0 (i-)	M0	Stage IA	0	3709	Positive	Positive	Equivocal	Negative	1	Negative
+TCGA-A8-A06Z	FEMALE	31	Alive	T3	N0	M0	Stage IIB	0	31	Positive	Positive	Negative	Negative	Not Available	Not Available
+TCGA-E9-A1RH	FEMALE	1417	Alive	T2	N0	M0	Stage IIA	0	1417	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AO-A0JI	FEMALE	1528	Alive	T1c	N1	M0	Stage IIA	0	1528	Positive	Negative	Negative	Not Evaluated	10	Negative
+TCGA-4H-AAAK	FEMALE	348	Alive	T2	N2a	M0	Stage IIIA	0	348	Positive	Positive	Equivocal	Not Evaluated	14	Negative
+TCGA-B6-A409	FEMALE	573	Dead	T1c	N2a	M0	Stage IIIA	1	456	Negative	Negative	Equivocal	Negative	22	Negative
+TCGA-AO-A0JB	FEMALE	1542	Alive	T3	N1a	M0	Stage IIIA	0	1542	Positive	Positive	Negative	Not Evaluated	14	Negative
+TCGA-AR-A24S	FEMALE	2976	Alive	T1	N0	M0	Stage I	0	2976	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-BH-A0HB	FEMALE	806	Alive	T1c	N0 (i-)	M0	Stage IA	0	806	Positive	Positive	Equivocal	Negative	2	Negative
+TCGA-A2-A04Q	FEMALE	2385	Alive	T1	N0 (i-)	M0	Stage IA	0	2385	Negative	Negative	Equivocal	Negative	3	Negative
+TCGA-E2-A573	FEMALE	1062	Alive	T1c	N0	M0	Stage IA	0	1062	Negative	Negative	Equivocal	Negative	4	Negative
+TCGA-B6-A0RO	FEMALE	4929	Alive	T4	N1a	M0	Stage IIIB	0	4929	Positive	Positive	Not Evaluated	Not Available	17	Negative
+TCGA-BH-A0E7	FEMALE	1363	Alive	T2	N1a	M0	Stage IIB	0	1363	Positive	Positive	Negative	Not Evaluated	17	Negative
+TCGA-A8-A06T	FEMALE	1614	Alive	T3	N1a	M0	Stage IIIA	0	1614	Positive	Positive	Positive	Positive	Not Available	Negative
+TCGA-A2-A0CW	FEMALE	3283	Alive	T2	N1a	M0	Stage IIB	0	3283	Positive	Positive	Equivocal	Negative	19	Negative
+TCGA-A2-A3KD	FEMALE	1206	Alive	T3	N1mi	M0	Stage IIIA	0	1206	Positive	Positive	Negative	Negative	19	Positive
+TCGA-A2-A0EQ	FEMALE	2426	Alive	T2	N0 (i-)	M0	Stage IIA	0	2426	Negative	Negative	Positive	Negative	2	Positive
+TCGA-GM-A2DO	FEMALE	2596	Alive	T1c	N0 (i-)	M0	Stage I	0	2596	Positive	Positive	Negative	Not Evaluated	3	Negative
+TCGA-LL-A5YN	FEMALE	447	Alive	T2	N0 (i-)	M0	Stage IIA	0	447	Positive	Positive	Equivocal	Positive	5	Negative
+TCGA-A2-A0EY	FEMALE	1925	Alive	T2	N1a	M0	Stage IIB	0	1925	Positive	Negative	Positive	Positive	23	Negative
+TCGA-A2-A3XS	FEMALE	1032	Dead	T1	N2a	M0	Stage IIIA	1	682	Negative	Negative	Not Evaluated	Negative	19	Positive
+TCGA-A7-A56D	FEMALE	448	Alive	T2	N0	M0	Stage IIA	0	448	Positive	Positive	Negative	Not Evaluated	8	Negative
+TCGA-E9-A1RD	FEMALE	34	Alive	T2	N0	M0	Stage IIA	0	34	Not Evaluated	Not Evaluated	Not Evaluated	Not Evaluated	10	Negative
+TCGA-AR-A0TT	FEMALE	3316	Alive	T2	N2	M0	Stage IIIA	0	3316	Positive	Negative	Negative	Not Evaluated	19	Negative
+TCGA-D8-A13Y	FEMALE	1728	Alive	T1c	N0	M0	Stage IA	0	1728	Positive	Positive	Negative	Not Evaluated	6	Negative
+TCGA-AR-A24P	FEMALE	84	Alive	T1	N0	M0	Stage I	0	84	Positive	Positive	Equivocal	Negative	3	Negative
+TCGA-AO-A0J4	FEMALE	1587	Alive	T1c	N0 (i-)	M0	Stage IA	0	1587	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-B6-A0WW	FEMALE	558	Dead	T2	N1b	MX	Stage X	1	447	Positive	Positive	Not Evaluated	Not Evaluated	18	Negative
+TCGA-B6-A0IK	FEMALE	571	Dead	T4	N1	M0	Stage IIIB	1	489	Negative	Negative	Not Evaluated	Not Available	14	Positive
+TCGA-A2-A3Y0	FEMALE	1546	Alive	T2	N1a	M0	Stage IIB	0	1546	Positive	Negative	Negative	Not Evaluated	39	Close
+TCGA-E2-A14Z	FEMALE	563	Dead	T1c	N0	M0	Stage I	1	188	Positive	Positive	Negative	Not Evaluated	1	Negative
+TCGA-A7-A0DC	FEMALE	906	Alive	T1c	N0 (i-)	M0	Stage IA	0	906	Positive	Negative	Negative	Not Evaluated	3	Negative
+TCGA-AR-A24V	FEMALE	3203	Alive	T2	N1	M0	Stage IIB	0	3203	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-B6-A0X1	FEMALE	7455	Dead	T2	N1	M1		1	490	Negative	Negative	Not Evaluated	Not Evaluated	21	Negative
+TCGA-D8-A1XK	FEMALE	441	Alive	T2	N1a	MX	Stage IIB	0	441	Negative	Negative	Negative	Not Evaluated	18	Negative
+TCGA-AO-A0J8	FEMALE	680	Alive	T2	N0 (i+)	M0	Stage IIA	0	680	Positive	Positive	Negative	Not Evaluated	2	Negative
+TCGA-AC-A2BM	FEMALE	3022	Alive	T2	N1a	MX	Stage IIB	0	3022	Positive	Positive	Not Evaluated	Negative	13	Negative
+TCGA-AO-A0J9	FEMALE	1613	Alive	T2	N3	M0	Stage IIIC	1	1066	Positive	Positive	Not Evaluated	Negative	32	Positive
+TCGA-AO-A124	FEMALE	3506	Alive	T2	N0 (i-)	M0	Stage IIA	0	3506	Negative	Negative	Negative	Not Evaluated	18	Negative
+TCGA-A7-A0D9	FEMALE	1139	Alive	T2	N0 (i-)	M0	Stage IIA	0	1139	Positive	Negative	Negative	Not Evaluated	1	Negative
+TCGA-AR-A1AP	FEMALE	2856	Alive	T1	N0	M0	Stage I	0	2856	Positive	Positive	Equivocal	Negative	1	Positive
+TCGA-LL-A442	FEMALE	889	Alive	T2	N0 (i-)	MX	Stage IIA	0	889	Positive	Positive	Equivocal	Negative	4	Negative
+TCGA-BH-A0H5	FEMALE	1620	Alive	T1c	N0 (i-)	M0	Stage I	0	1620	Positive	Positive	Not Available	Negative	1	Negative
+TCGA-A2-A0CO	FEMALE	1468	Alive	T3	N0	M0	Stage IIB	0	1468	Positive	Positive	Negative	Negative	11	Positive
+TCGA-E2-A153	FEMALE	707	Alive	T2	N1a	M0	Stage IIB	0	707	Positive	Positive	Negative	Not Evaluated	15	Negative
+TCGA-E9-A3X8	FEMALE	926	Alive	T2	N1	M0	Stage IIB	0	926	Positive	Positive	Positive	Not Evaluated	8	Negative
+TCGA-D8-A140	FEMALE	403	Alive	T2	N1a	M0	Stage IIB	0	403	Positive	Positive	Positive	Not Evaluated	15	Negative
+TCGA-AN-A046	FEMALE	10	Alive	T2	N0	M0	Stage IIA	0	10	Positive	Positive	Negative	Not Evaluated	19	Negative
+TCGA-E9-A5FL	FEMALE	24	Alive	T3	N0	M0	Stage IIB	0	24	Negative	Negative	Negative	Not Evaluated	10	Negative
+TCGA-C8-A132	FEMALE	383	Alive	T2	N1	M0	Stage IIB	0	383	Positive	Positive	Not Evaluated	Not Evaluated	4	Negative
+TCGA-AR-A0TP	FEMALE	4275	Alive	T2	N0	M0	Stage IIA	0	4275	Positive	Negative	Negative	Not Evaluated	5	Negative
+TCGA-E2-A3DX	FEMALE	1325	Alive	T2	N3	M0	Stage IIIC	0	1325	Positive	Positive	Not Evaluated	Positive	36	Positive
+TCGA-GM-A2DK	FEMALE	2645	Alive	T1c	N0 (i-)	M0	Stage I	0	2645	Positive	Negative	Negative	Not Evaluated	1	Negative
+TCGA-S3-AA10	FEMALE	586	Alive	T2	N0	M0	Stage IIA	0	586	Negative	Negative	Negative	Not Evaluated	4	Negative
+TCGA-LL-A50Y	FEMALE	762	Alive	T2	N0	MX	Stage IIA	0	762	Positive	Positive	Equivocal	Negative	8	Negative
+TCGA-OL-A5D8	FEMALE	973	Alive	T3	N0	MX	Stage IIB	0	973	Positive	Positive	Not Evaluated	Negative	2	Unknown
+TCGA-BH-A0C0	FEMALE	1270	Alive	T1c	N1a	M0	Stage IIA	0	1270	Positive	Positive	Equivocal	Positive	35	Negative
+TCGA-BH-A18F	FEMALE	1001	Alive	T2	N0	M0	Stage IIA	0	1001	Positive	Positive	Negative	Not Available	1	Negative
+TCGA-WT-AB44	FEMALE	883	Alive	T1c	N0 (i-)	MX	Stage IA	0	883	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-D8-A1XS	MALE	496	Alive	T2	N3a	M0	Stage IIIC	0	496	Positive	Positive	Positive	Not Evaluated	28	Negative
+TCGA-AR-A1AV	MALE	1864	Alive	T2	N1	M0	Stage IIB	0	1864	Positive	Positive	Negative	Not Evaluated	25	Negative
+TCGA-B6-A0WT	FEMALE	5739	Alive	T2	N1	M0	Stage IIB	1	3862	Positive	Positive	Not Evaluated	Not Evaluated	15	Negative
+TCGA-AR-A0TQ	FEMALE	2991	Alive	T3	N1	M0	Stage IIIA	0	2991	Positive	Negative	Equivocal	Positive	15	Negative
+TCGA-C8-A12M	FEMALE	358	Alive	T2	N0 (i-)	M0	Stage IIA	0	358	Positive	Negative	Negative	Not Evaluated	10	Negative
+TCGA-BH-A18R	FEMALE	1142	Dead	T2b	N1	M0	Stage IIA	0	1142	Indeterminate	Negative	Positive	Positive	15	Negative
+TCGA-AC-A6IV	FEMALE	568	Alive	T2	N1	MX	Stage IIB	0	568	Positive	Positive	Equivocal	Not Evaluated	1	Negative
+TCGA-BH-A0AZ	FEMALE	1919	Alive	T3	N1a		Stage IIIA	0	1919	Positive	Positive	Negative	Not Available	13	Negative
+TCGA-BH-A0DP	FEMALE	476	Alive	T3	N0 (i-)	M0	Stage IIB	0	476	Positive	Positive	Negative	Not Evaluated	4	Negative
+TCGA-C8-A134	FEMALE	383	Alive	T2	N0	M0	Stage IIA	0	383	Negative	Negative	Equivocal	Not Evaluated	7	Negative
+TCGA-A2-A25D	FEMALE	0	Alive	T2	N3a	M0	Stage IIIC	0	0	Positive	Negative	Negative	Negative	24	Positive
+TCGA-E2-A14Y	FEMALE	2109	Alive	T2	N0	M0	Stage IIA	0	2109	Positive	Positive	Equivocal	Positive	5	Negative
+TCGA-D8-A1XB	FEMALE	552	Alive	T2	N1a	M0	Stage IIB	0	552	Positive	Positive	Negative	Not Evaluated	10	Negative
+TCGA-AR-A1AI	FEMALE	3296	Alive	T2	N0	M0	Stage IIA	1	588	Negative	Negative	Equivocal	Negative	5	Negative
+TCGA-A1-A0SD	FEMALE	437	Alive	T2	N0	M0	Stage IIA	0	437	Positive	Positive	Negative	Not Evaluated	3	Positive
+TCGA-E2-A14N	FEMALE	1434	Alive	T2	N1	M0	Stage IIB	0	1434	Negative	Negative	Negative	Not Evaluated	38	Negative
+TCGA-BH-A0BD	FEMALE	554	Alive	T1c	N1a	M0	Stage IIA	0	554	Positive	Positive	Negative	Not Evaluated	9	Negative
+TCGA-D8-A27N	FEMALE	519	Alive	T2	N2a	M0	Stage IIIA	0	519	Positive	Positive	Positive	Not Evaluated	19	Negative
+TCGA-B6-A1KN	FEMALE	4233	Alive	T4b	N1	M0	Stage IIIB	0	4233	Negative	Negative	Not Evaluated	Not Evaluated	30	Negative
+TCGA-A2-A3XX	FEMALE	1439	Dead	T2	N0	M0	Stage IIA	0	1439	Negative	Negative	Negative	Negative	1	Negative
+TCGA-A2-A0YC	FEMALE	990	Alive	T2	N1mi	M0	Stage IIB	1	756	Positive	Positive	Not Evaluated	Negative	3	Close
+TCGA-E2-A1IJ	FEMALE	865	Alive	T1c	N0	M0	Stage I	0	865	Positive	Positive	Equivocal	Negative	3	Negative
+TCGA-A2-A0EO	FEMALE	2442	Alive	T1	N0 (i-)	M0	Stage IA	0	2442	Positive	Positive	Negative	Negative	3	Close
